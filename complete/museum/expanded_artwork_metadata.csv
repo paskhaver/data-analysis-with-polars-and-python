@@ -1,0 +1,5 @@
+art_id,location,on_display
+101,Room A,True
+102,Room B,True
+103,Room C,False
+104,Room C,True

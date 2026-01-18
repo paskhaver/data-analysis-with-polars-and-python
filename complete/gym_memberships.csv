@@ -1,0 +1,1001 @@
+member_id,membership_tier,favorite_class,city,visits_last_month,is_active
+1,Silver,Pilates,Los Angeles,20,False
+2,Bronze,Spin,Miami,7,True
+3,Bronze,Pilates,Los Angeles,9,False
+4,Silver,Pilates,Dallas,1,True
+5,Gold,Pilates,Miami,14,False
+6,Bronze,HIIT,New York,8,False
+7,Bronze,Pilates,New York,11,False
+8,Bronze,HIIT,Los Angeles,2,False
+9,Silver,Yoga,Chicago,14,False
+10,Bronze,Yoga,Dallas,3,False
+11,Silver,Spin,Dallas,7,True
+12,Silver,Spin,Los Angeles,6,True
+13,Silver,HIIT,Dallas,18,True
+14,Bronze,Yoga,New York,11,True
+15,Silver,Spin,Los Angeles,19,False
+16,Gold,Spin,New York,20,False
+17,Bronze,Spin,Miami,13,True
+18,Bronze,Yoga,Miami,5,True
+19,Bronze,Spin,Chicago,19,False
+20,Bronze,Yoga,Dallas,4,False
+21,Bronze,Pilates,Miami,6,False
+22,Silver,Pilates,Dallas,6,False
+23,Silver,Pilates,New York,1,False
+24,Bronze,HIIT,Los Angeles,18,False
+25,Silver,Yoga,Miami,11,True
+26,Bronze,Spin,Los Angeles,17,True
+27,Silver,HIIT,Miami,8,False
+28,Silver,HIIT,Dallas,19,True
+29,Silver,Pilates,Miami,17,False
+30,Silver,Yoga,Miami,5,False
+31,Gold,Spin,New York,10,False
+32,Bronze,HIIT,Chicago,9,True
+33,Gold,Spin,New York,9,True
+34,Silver,Pilates,Los Angeles,18,False
+35,Gold,Yoga,Dallas,8,True
+36,Bronze,Spin,Dallas,16,False
+37,Bronze,Spin,Miami,3,True
+38,Silver,HIIT,Dallas,4,False
+39,Gold,Spin,Chicago,13,True
+40,Gold,Yoga,Chicago,1,False
+41,Gold,Yoga,Miami,8,True
+42,Bronze,Spin,Miami,20,True
+43,Bronze,HIIT,Los Angeles,4,False
+44,Gold,HIIT,Miami,4,True
+45,Bronze,Pilates,New York,7,False
+46,Bronze,Yoga,New York,4,False
+47,Gold,Pilates,New York,10,False
+48,Bronze,HIIT,Chicago,7,False
+49,Gold,Pilates,Dallas,12,False
+50,Gold,HIIT,Los Angeles,15,False
+51,Silver,Pilates,Miami,4,False
+52,Gold,Pilates,Los Angeles,18,True
+53,Bronze,Yoga,Chicago,20,False
+54,Silver,Yoga,Miami,8,True
+55,Gold,Pilates,Miami,20,True
+56,Silver,HIIT,Chicago,13,False
+57,Bronze,HIIT,Dallas,12,True
+58,Gold,Yoga,Miami,14,True
+59,Bronze,Yoga,Dallas,2,False
+60,Silver,Spin,Chicago,20,False
+61,Gold,Yoga,Los Angeles,2,False
+62,Silver,HIIT,Miami,12,True
+63,Silver,Yoga,Dallas,16,True
+64,Gold,Spin,Miami,8,True
+65,Silver,Pilates,Dallas,11,True
+66,Bronze,Pilates,Miami,14,False
+67,Silver,HIIT,Miami,15,False
+68,Bronze,Spin,Miami,10,False
+69,Bronze,Pilates,Los Angeles,18,True
+70,Silver,Pilates,Miami,0,False
+71,Bronze,Yoga,Dallas,2,True
+72,Gold,Pilates,Los Angeles,14,True
+73,Bronze,HIIT,New York,20,False
+74,Bronze,Pilates,Dallas,11,False
+75,Bronze,HIIT,Dallas,2,True
+76,Gold,HIIT,New York,17,False
+77,Gold,Yoga,Los Angeles,12,True
+78,Gold,Spin,Miami,6,True
+79,Silver,HIIT,Dallas,13,False
+80,Gold,Pilates,New York,6,False
+81,Bronze,Pilates,Miami,15,True
+82,Gold,HIIT,Los Angeles,8,True
+83,Gold,Pilates,Dallas,10,True
+84,Bronze,Yoga,Miami,9,False
+85,Silver,Pilates,Miami,10,True
+86,Gold,Yoga,Chicago,17,True
+87,Silver,HIIT,New York,18,False
+88,Silver,HIIT,Miami,4,False
+89,Silver,HIIT,Los Angeles,18,False
+90,Bronze,Yoga,Chicago,15,False
+91,Silver,Pilates,Miami,10,False
+92,Silver,Yoga,Miami,1,False
+93,Bronze,Pilates,Los Angeles,1,True
+94,Silver,Pilates,Chicago,3,True
+95,Silver,Yoga,Chicago,20,True
+96,Bronze,Spin,New York,14,False
+97,Bronze,HIIT,Miami,0,True
+98,Gold,Pilates,New York,3,False
+99,Gold,Pilates,Chicago,5,True
+100,Gold,Yoga,New York,14,True
+101,Silver,Spin,Los Angeles,14,True
+102,Silver,HIIT,Dallas,0,True
+103,Silver,Spin,Los Angeles,13,True
+104,Bronze,HIIT,Chicago,6,False
+105,Silver,Pilates,Los Angeles,4,False
+106,Gold,Pilates,Chicago,20,True
+107,Bronze,Yoga,Los Angeles,9,True
+108,Bronze,Yoga,Miami,5,False
+109,Bronze,Spin,Miami,8,False
+110,Gold,Spin,Los Angeles,2,True
+111,Gold,HIIT,New York,20,True
+112,Gold,Yoga,Chicago,11,True
+113,Bronze,Pilates,Miami,8,False
+114,Bronze,Yoga,Chicago,2,False
+115,Silver,Spin,Miami,11,False
+116,Silver,Yoga,Dallas,20,False
+117,Gold,Pilates,Los Angeles,5,False
+118,Bronze,Yoga,Miami,1,True
+119,Silver,Spin,Los Angeles,12,False
+120,Gold,Pilates,Dallas,20,False
+121,Gold,HIIT,Chicago,9,False
+122,Silver,HIIT,Los Angeles,7,True
+123,Gold,Pilates,Miami,13,True
+124,Bronze,Pilates,Dallas,20,False
+125,Gold,Pilates,Miami,2,True
+126,Bronze,Spin,Dallas,3,True
+127,Bronze,Pilates,Dallas,0,True
+128,Silver,Spin,Miami,6,True
+129,Silver,Pilates,Los Angeles,15,True
+130,Silver,Spin,Chicago,2,True
+131,Gold,Spin,Chicago,4,True
+132,Silver,Yoga,Dallas,18,True
+133,Silver,HIIT,Miami,7,False
+134,Gold,Pilates,Dallas,16,True
+135,Silver,HIIT,Chicago,14,False
+136,Gold,HIIT,Dallas,0,False
+137,Gold,Yoga,Dallas,0,True
+138,Bronze,HIIT,Chicago,10,True
+139,Bronze,HIIT,Los Angeles,3,True
+140,Silver,Pilates,Dallas,13,True
+141,Gold,Spin,Los Angeles,4,True
+142,Bronze,Pilates,Dallas,15,True
+143,Bronze,Pilates,Miami,2,False
+144,Bronze,HIIT,Dallas,7,False
+145,Bronze,HIIT,Dallas,12,False
+146,Silver,Pilates,New York,2,True
+147,Bronze,Pilates,Miami,3,False
+148,Silver,HIIT,Miami,3,False
+149,Gold,Spin,Los Angeles,10,True
+150,Silver,Spin,Los Angeles,11,True
+151,Bronze,Pilates,Dallas,9,True
+152,Gold,Spin,Chicago,4,False
+153,Gold,Pilates,Dallas,12,False
+154,Silver,Yoga,New York,4,True
+155,Gold,HIIT,Dallas,20,False
+156,Silver,Pilates,New York,4,True
+157,Gold,Pilates,Dallas,2,False
+158,Silver,Pilates,Los Angeles,16,True
+159,Bronze,Spin,Dallas,18,True
+160,Silver,Pilates,Los Angeles,0,False
+161,Silver,Yoga,Chicago,19,True
+162,Bronze,Spin,Chicago,20,True
+163,Silver,HIIT,Miami,5,False
+164,Silver,Yoga,Dallas,14,True
+165,Gold,Pilates,Miami,11,True
+166,Silver,Yoga,Dallas,6,False
+167,Gold,Pilates,Chicago,20,True
+168,Bronze,Yoga,New York,4,False
+169,Gold,Spin,Miami,13,False
+170,Gold,Pilates,Miami,19,False
+171,Bronze,Spin,Chicago,14,True
+172,Gold,Yoga,Chicago,6,True
+173,Bronze,Pilates,New York,2,False
+174,Silver,HIIT,Miami,3,True
+175,Silver,HIIT,Chicago,4,False
+176,Gold,Pilates,Chicago,3,False
+177,Silver,Yoga,New York,18,True
+178,Bronze,HIIT,New York,12,True
+179,Silver,Pilates,Los Angeles,11,True
+180,Bronze,HIIT,Dallas,13,True
+181,Silver,Pilates,Los Angeles,10,True
+182,Gold,Yoga,New York,4,False
+183,Silver,Yoga,Chicago,7,True
+184,Silver,Spin,New York,8,True
+185,Silver,HIIT,Miami,20,True
+186,Bronze,Spin,Chicago,2,True
+187,Bronze,Yoga,Los Angeles,7,False
+188,Gold,Pilates,Los Angeles,17,True
+189,Bronze,Yoga,Los Angeles,19,False
+190,Silver,Yoga,Chicago,19,False
+191,Silver,Pilates,Dallas,19,False
+192,Bronze,Spin,Dallas,9,False
+193,Silver,HIIT,Dallas,0,True
+194,Gold,Yoga,New York,9,True
+195,Gold,Yoga,New York,6,True
+196,Bronze,HIIT,Miami,16,True
+197,Bronze,Yoga,Chicago,19,False
+198,Gold,HIIT,Miami,16,False
+199,Gold,HIIT,New York,6,False
+200,Bronze,HIIT,Chicago,12,False
+201,Bronze,Pilates,Los Angeles,9,True
+202,Bronze,Spin,Chicago,20,True
+203,Silver,Spin,New York,1,True
+204,Bronze,Pilates,Los Angeles,7,True
+205,Bronze,Spin,Los Angeles,15,True
+206,Silver,Spin,Chicago,12,True
+207,Gold,Spin,Dallas,3,False
+208,Bronze,Yoga,New York,7,False
+209,Silver,Pilates,New York,15,False
+210,Bronze,Spin,Dallas,20,False
+211,Bronze,Pilates,Miami,19,True
+212,Silver,Spin,Miami,2,False
+213,Gold,Spin,New York,16,False
+214,Silver,Pilates,Dallas,0,True
+215,Bronze,HIIT,Dallas,11,True
+216,Gold,Pilates,Los Angeles,10,False
+217,Silver,HIIT,Miami,4,False
+218,Silver,Yoga,Miami,12,False
+219,Gold,Pilates,Los Angeles,18,False
+220,Bronze,HIIT,Chicago,13,False
+221,Silver,Spin,Miami,11,False
+222,Silver,Yoga,Los Angeles,17,False
+223,Silver,Pilates,Dallas,5,True
+224,Bronze,HIIT,Chicago,15,True
+225,Silver,HIIT,New York,2,True
+226,Gold,Pilates,Dallas,0,True
+227,Gold,HIIT,Chicago,18,True
+228,Silver,Pilates,Los Angeles,2,True
+229,Silver,HIIT,Dallas,0,False
+230,Gold,Spin,Chicago,8,False
+231,Gold,Pilates,New York,6,False
+232,Silver,Pilates,Dallas,1,True
+233,Gold,Yoga,Dallas,1,False
+234,Bronze,Spin,Miami,12,False
+235,Bronze,Pilates,Chicago,16,True
+236,Bronze,HIIT,Chicago,9,True
+237,Bronze,HIIT,Miami,20,False
+238,Gold,HIIT,Los Angeles,16,False
+239,Bronze,Yoga,Los Angeles,13,True
+240,Silver,Pilates,Miami,13,False
+241,Silver,HIIT,Dallas,12,False
+242,Bronze,Yoga,New York,2,True
+243,Silver,Yoga,Los Angeles,20,True
+244,Bronze,Pilates,New York,17,False
+245,Bronze,HIIT,Chicago,17,False
+246,Bronze,Spin,Chicago,19,True
+247,Silver,HIIT,Los Angeles,4,True
+248,Silver,Spin,Dallas,8,False
+249,Bronze,Spin,Chicago,2,True
+250,Bronze,HIIT,New York,9,False
+251,Bronze,Spin,Dallas,2,True
+252,Bronze,Yoga,Los Angeles,16,False
+253,Gold,Yoga,Chicago,6,False
+254,Bronze,HIIT,Los Angeles,4,False
+255,Silver,Pilates,Dallas,17,True
+256,Bronze,Yoga,Dallas,10,True
+257,Gold,HIIT,Dallas,12,True
+258,Silver,Spin,Miami,18,True
+259,Gold,Yoga,Miami,20,False
+260,Bronze,HIIT,New York,20,False
+261,Silver,HIIT,Dallas,20,True
+262,Bronze,Pilates,Dallas,2,True
+263,Silver,Spin,Chicago,9,False
+264,Silver,Spin,New York,13,False
+265,Silver,Spin,New York,7,True
+266,Gold,HIIT,Los Angeles,1,False
+267,Bronze,HIIT,Dallas,7,False
+268,Gold,Spin,Chicago,2,True
+269,Gold,HIIT,Los Angeles,13,True
+270,Bronze,Pilates,Miami,3,False
+271,Bronze,HIIT,Dallas,14,False
+272,Bronze,HIIT,New York,19,True
+273,Silver,Yoga,Dallas,19,True
+274,Gold,Pilates,Dallas,1,False
+275,Gold,Yoga,Miami,9,False
+276,Gold,Spin,Chicago,5,False
+277,Gold,Spin,Chicago,3,True
+278,Gold,Pilates,Chicago,0,False
+279,Silver,HIIT,Los Angeles,4,False
+280,Bronze,Yoga,Chicago,0,False
+281,Silver,Pilates,Los Angeles,5,True
+282,Silver,Yoga,Miami,15,False
+283,Silver,HIIT,Dallas,11,True
+284,Bronze,Yoga,Los Angeles,16,True
+285,Bronze,Pilates,Miami,16,False
+286,Gold,HIIT,Los Angeles,8,False
+287,Silver,HIIT,Miami,5,True
+288,Gold,Pilates,Chicago,11,True
+289,Bronze,HIIT,Chicago,4,True
+290,Bronze,Yoga,Miami,8,False
+291,Bronze,Spin,New York,3,True
+292,Bronze,Pilates,Miami,0,False
+293,Silver,Yoga,Los Angeles,10,False
+294,Gold,HIIT,Miami,13,False
+295,Bronze,Spin,Dallas,8,True
+296,Gold,Yoga,New York,16,True
+297,Bronze,Pilates,Miami,2,False
+298,Gold,HIIT,New York,8,False
+299,Gold,Pilates,New York,18,False
+300,Bronze,Yoga,Miami,20,False
+301,Bronze,Spin,Miami,2,False
+302,Gold,Yoga,Chicago,15,True
+303,Silver,Yoga,Miami,14,True
+304,Bronze,HIIT,Miami,16,True
+305,Bronze,Pilates,Chicago,11,True
+306,Silver,Yoga,Chicago,1,False
+307,Silver,Yoga,Dallas,15,False
+308,Bronze,Spin,Miami,18,False
+309,Bronze,Spin,Los Angeles,5,False
+310,Bronze,Pilates,New York,11,True
+311,Bronze,Pilates,Chicago,5,True
+312,Gold,HIIT,Miami,8,True
+313,Gold,Pilates,Los Angeles,3,False
+314,Gold,Spin,New York,18,True
+315,Bronze,Pilates,Miami,3,False
+316,Gold,Yoga,Los Angeles,7,True
+317,Bronze,Pilates,New York,16,False
+318,Bronze,Pilates,Los Angeles,0,True
+319,Gold,HIIT,Chicago,1,True
+320,Bronze,Yoga,Miami,0,True
+321,Gold,HIIT,Los Angeles,7,False
+322,Gold,Spin,Los Angeles,1,True
+323,Gold,Pilates,Miami,15,False
+324,Gold,Pilates,New York,11,True
+325,Gold,Spin,Miami,12,False
+326,Silver,HIIT,Los Angeles,4,True
+327,Silver,Yoga,Dallas,5,False
+328,Silver,HIIT,New York,1,True
+329,Silver,HIIT,Los Angeles,17,True
+330,Silver,Yoga,Dallas,20,False
+331,Gold,Pilates,New York,13,False
+332,Bronze,HIIT,Chicago,7,True
+333,Bronze,Spin,Miami,10,False
+334,Gold,Yoga,New York,7,True
+335,Bronze,Pilates,New York,13,True
+336,Bronze,Yoga,Los Angeles,10,False
+337,Silver,Spin,Dallas,8,False
+338,Silver,Yoga,New York,2,True
+339,Silver,Yoga,Miami,18,True
+340,Bronze,HIIT,New York,11,True
+341,Silver,Spin,New York,3,True
+342,Gold,Spin,Los Angeles,16,False
+343,Bronze,Spin,New York,1,False
+344,Bronze,Yoga,Dallas,5,False
+345,Silver,Spin,Los Angeles,7,False
+346,Gold,Spin,Chicago,16,True
+347,Silver,Spin,Chicago,1,False
+348,Silver,HIIT,Los Angeles,12,False
+349,Bronze,Spin,Dallas,2,False
+350,Bronze,Yoga,Los Angeles,14,False
+351,Silver,HIIT,Los Angeles,9,False
+352,Bronze,Spin,Los Angeles,9,True
+353,Bronze,Spin,Los Angeles,10,True
+354,Bronze,HIIT,New York,2,False
+355,Silver,Spin,Miami,17,False
+356,Bronze,Yoga,Chicago,14,False
+357,Silver,Yoga,Dallas,0,True
+358,Bronze,Spin,New York,11,True
+359,Gold,Yoga,Chicago,6,True
+360,Bronze,HIIT,Miami,9,False
+361,Silver,Spin,Los Angeles,18,False
+362,Bronze,HIIT,Miami,9,True
+363,Silver,Yoga,Chicago,19,True
+364,Silver,Spin,Chicago,7,False
+365,Bronze,HIIT,New York,14,True
+366,Silver,Yoga,New York,11,False
+367,Bronze,Spin,Dallas,18,False
+368,Gold,Pilates,Los Angeles,15,False
+369,Silver,Yoga,Miami,6,False
+370,Silver,Yoga,Los Angeles,17,False
+371,Silver,Pilates,Miami,7,True
+372,Silver,Pilates,Los Angeles,4,True
+373,Gold,HIIT,Chicago,0,True
+374,Gold,Yoga,Chicago,13,False
+375,Bronze,Pilates,Los Angeles,0,True
+376,Silver,Spin,Dallas,7,True
+377,Silver,Yoga,Chicago,17,True
+378,Gold,HIIT,Dallas,11,True
+379,Bronze,Pilates,Chicago,20,False
+380,Gold,Yoga,New York,0,True
+381,Gold,Yoga,New York,10,False
+382,Bronze,Pilates,Los Angeles,0,False
+383,Silver,Pilates,Miami,12,True
+384,Silver,Pilates,New York,9,True
+385,Gold,Yoga,Chicago,3,False
+386,Gold,Pilates,Chicago,6,True
+387,Gold,Pilates,New York,16,True
+388,Bronze,Yoga,New York,7,False
+389,Bronze,Yoga,Miami,13,False
+390,Gold,HIIT,New York,15,True
+391,Silver,Spin,Los Angeles,1,True
+392,Silver,Yoga,Miami,4,False
+393,Bronze,Spin,New York,8,True
+394,Bronze,HIIT,Chicago,2,False
+395,Silver,HIIT,New York,1,True
+396,Bronze,Pilates,Los Angeles,7,False
+397,Silver,HIIT,Los Angeles,16,False
+398,Gold,Pilates,Chicago,13,False
+399,Bronze,Pilates,Miami,11,False
+400,Gold,Yoga,Chicago,14,True
+401,Bronze,Yoga,New York,2,True
+402,Bronze,Spin,Chicago,18,False
+403,Gold,Pilates,Miami,3,True
+404,Gold,Pilates,Dallas,16,False
+405,Bronze,Spin,Chicago,4,True
+406,Gold,Pilates,Miami,20,False
+407,Silver,HIIT,Dallas,12,True
+408,Silver,Pilates,Miami,2,True
+409,Gold,Pilates,Miami,18,False
+410,Silver,Pilates,Dallas,18,False
+411,Silver,Yoga,Chicago,1,True
+412,Silver,HIIT,Dallas,13,True
+413,Bronze,Pilates,Chicago,4,True
+414,Silver,HIIT,Miami,7,True
+415,Silver,HIIT,Chicago,9,True
+416,Gold,HIIT,Los Angeles,8,False
+417,Silver,Spin,Dallas,10,True
+418,Bronze,Pilates,Dallas,12,False
+419,Bronze,Yoga,New York,10,False
+420,Gold,Yoga,Miami,10,False
+421,Bronze,Yoga,Miami,14,True
+422,Bronze,Yoga,Chicago,8,True
+423,Silver,Pilates,Los Angeles,7,False
+424,Silver,Yoga,Miami,2,True
+425,Bronze,HIIT,Los Angeles,6,False
+426,Gold,Spin,New York,4,False
+427,Gold,Yoga,Dallas,18,True
+428,Silver,HIIT,Los Angeles,3,True
+429,Bronze,Yoga,Miami,4,True
+430,Silver,Pilates,Dallas,3,False
+431,Gold,HIIT,Los Angeles,5,True
+432,Bronze,Pilates,Los Angeles,14,False
+433,Silver,Yoga,Chicago,14,False
+434,Silver,HIIT,Dallas,10,False
+435,Gold,HIIT,Los Angeles,13,True
+436,Silver,HIIT,Chicago,3,False
+437,Gold,Yoga,Miami,17,True
+438,Gold,Spin,Los Angeles,11,True
+439,Bronze,Spin,Chicago,6,True
+440,Bronze,Pilates,Chicago,14,True
+441,Silver,Spin,Dallas,9,False
+442,Gold,Yoga,Chicago,14,False
+443,Gold,HIIT,Los Angeles,8,True
+444,Bronze,HIIT,New York,3,False
+445,Bronze,Yoga,Miami,2,True
+446,Gold,HIIT,Los Angeles,5,True
+447,Bronze,Spin,Los Angeles,9,False
+448,Silver,Pilates,Miami,19,False
+449,Gold,Yoga,Miami,1,False
+450,Bronze,HIIT,Chicago,6,False
+451,Silver,Yoga,Los Angeles,10,True
+452,Gold,Spin,Chicago,4,False
+453,Silver,HIIT,Dallas,2,True
+454,Silver,HIIT,Chicago,7,True
+455,Gold,HIIT,Dallas,11,False
+456,Silver,HIIT,New York,12,False
+457,Bronze,Yoga,Los Angeles,16,True
+458,Bronze,Spin,Dallas,1,True
+459,Bronze,Spin,New York,9,True
+460,Silver,Pilates,Miami,8,False
+461,Bronze,Yoga,Chicago,5,False
+462,Silver,Spin,New York,0,True
+463,Bronze,Yoga,Dallas,12,False
+464,Gold,Yoga,Los Angeles,14,False
+465,Silver,Spin,Miami,17,False
+466,Silver,Pilates,Miami,17,True
+467,Bronze,Pilates,New York,7,False
+468,Gold,Pilates,New York,3,False
+469,Bronze,HIIT,Chicago,14,False
+470,Bronze,Spin,Miami,3,True
+471,Gold,HIIT,Miami,4,False
+472,Gold,HIIT,Chicago,3,True
+473,Bronze,HIIT,Los Angeles,0,False
+474,Gold,Yoga,Chicago,1,True
+475,Bronze,Yoga,Dallas,7,True
+476,Silver,Spin,Dallas,4,True
+477,Bronze,Spin,New York,6,True
+478,Silver,Yoga,Chicago,12,True
+479,Bronze,Yoga,Chicago,11,True
+480,Gold,HIIT,New York,20,True
+481,Silver,Pilates,Los Angeles,20,False
+482,Gold,Pilates,Chicago,2,True
+483,Silver,Pilates,Miami,18,True
+484,Silver,Pilates,Chicago,18,False
+485,Bronze,Pilates,Los Angeles,8,True
+486,Bronze,HIIT,Chicago,2,True
+487,Bronze,Spin,Miami,0,True
+488,Bronze,Yoga,Dallas,2,False
+489,Gold,HIIT,Dallas,6,False
+490,Bronze,Pilates,Los Angeles,20,True
+491,Bronze,Yoga,Los Angeles,14,True
+492,Silver,HIIT,Miami,4,True
+493,Gold,Pilates,Dallas,2,True
+494,Gold,HIIT,Dallas,10,True
+495,Silver,Yoga,Dallas,3,False
+496,Silver,Spin,Dallas,1,True
+497,Bronze,Pilates,Miami,14,True
+498,Gold,Yoga,Los Angeles,1,False
+499,Bronze,Yoga,Los Angeles,5,False
+500,Silver,Spin,New York,18,False
+501,Bronze,HIIT,Los Angeles,13,False
+502,Gold,Spin,Dallas,12,False
+503,Bronze,Spin,Chicago,15,False
+504,Gold,HIIT,Dallas,0,False
+505,Bronze,HIIT,Dallas,12,True
+506,Bronze,HIIT,Los Angeles,13,False
+507,Gold,Yoga,New York,5,True
+508,Gold,Yoga,Miami,11,True
+509,Gold,Pilates,Chicago,6,True
+510,Bronze,Pilates,Chicago,5,True
+511,Bronze,Spin,New York,8,True
+512,Bronze,Spin,Dallas,8,False
+513,Silver,Pilates,Miami,14,True
+514,Bronze,Spin,Miami,4,False
+515,Gold,HIIT,Miami,1,False
+516,Gold,Yoga,Los Angeles,19,True
+517,Gold,Pilates,Dallas,19,False
+518,Bronze,Yoga,Chicago,19,False
+519,Gold,Pilates,Chicago,7,False
+520,Gold,Yoga,Dallas,20,False
+521,Silver,Pilates,Chicago,9,True
+522,Silver,Yoga,Los Angeles,15,False
+523,Gold,HIIT,Miami,13,True
+524,Silver,Pilates,Chicago,17,True
+525,Silver,Pilates,Los Angeles,15,True
+526,Gold,Pilates,Miami,1,False
+527,Bronze,HIIT,Dallas,2,False
+528,Bronze,Yoga,Dallas,8,True
+529,Gold,Pilates,Los Angeles,12,False
+530,Bronze,Yoga,Los Angeles,4,False
+531,Silver,HIIT,Los Angeles,13,True
+532,Gold,Spin,Chicago,6,True
+533,Bronze,Pilates,Dallas,20,True
+534,Bronze,HIIT,Chicago,16,True
+535,Silver,Yoga,Chicago,7,True
+536,Gold,Pilates,Miami,20,False
+537,Gold,Yoga,Los Angeles,17,True
+538,Silver,Spin,Chicago,0,False
+539,Gold,Pilates,Miami,12,True
+540,Gold,Pilates,New York,11,False
+541,Silver,Yoga,Miami,15,True
+542,Silver,Pilates,New York,17,False
+543,Bronze,HIIT,New York,15,True
+544,Gold,HIIT,New York,11,True
+545,Silver,Spin,New York,18,True
+546,Bronze,HIIT,Los Angeles,16,True
+547,Gold,Spin,Chicago,10,False
+548,Bronze,Yoga,Chicago,12,True
+549,Silver,Yoga,New York,8,True
+550,Gold,Spin,Chicago,5,True
+551,Bronze,HIIT,New York,0,True
+552,Silver,HIIT,Chicago,10,False
+553,Silver,Spin,Miami,19,True
+554,Silver,Spin,Los Angeles,7,False
+555,Silver,Yoga,Dallas,0,True
+556,Silver,Spin,New York,8,False
+557,Silver,HIIT,Miami,1,True
+558,Silver,Spin,Miami,15,True
+559,Bronze,Spin,Los Angeles,16,False
+560,Gold,Spin,Los Angeles,11,False
+561,Gold,Yoga,New York,18,False
+562,Bronze,Spin,New York,7,True
+563,Silver,Pilates,Miami,5,True
+564,Gold,Pilates,Miami,3,True
+565,Silver,Pilates,Los Angeles,7,False
+566,Gold,HIIT,New York,7,True
+567,Silver,HIIT,New York,8,True
+568,Bronze,Spin,Miami,17,False
+569,Silver,Pilates,Dallas,1,False
+570,Gold,Yoga,Miami,7,False
+571,Silver,Pilates,Dallas,18,False
+572,Gold,Pilates,New York,12,False
+573,Silver,HIIT,Miami,11,True
+574,Gold,HIIT,Los Angeles,5,False
+575,Gold,Yoga,Chicago,5,False
+576,Gold,HIIT,New York,7,False
+577,Silver,Yoga,New York,18,True
+578,Gold,HIIT,Miami,10,True
+579,Silver,Pilates,Chicago,11,False
+580,Bronze,Pilates,Chicago,18,True
+581,Bronze,Yoga,Chicago,0,True
+582,Gold,Yoga,Miami,11,False
+583,Silver,HIIT,Miami,18,False
+584,Gold,HIIT,Dallas,18,False
+585,Silver,Yoga,Dallas,4,True
+586,Silver,Yoga,Dallas,18,False
+587,Bronze,Pilates,Los Angeles,6,False
+588,Silver,Pilates,New York,15,False
+589,Silver,Yoga,Dallas,17,False
+590,Gold,Pilates,Los Angeles,9,False
+591,Gold,Spin,Los Angeles,5,False
+592,Silver,HIIT,Miami,15,False
+593,Bronze,Pilates,Chicago,1,True
+594,Gold,Spin,Chicago,2,True
+595,Gold,Yoga,Dallas,1,True
+596,Bronze,Pilates,New York,7,False
+597,Gold,Yoga,New York,19,True
+598,Silver,HIIT,New York,7,True
+599,Silver,Yoga,Los Angeles,0,False
+600,Silver,Spin,Los Angeles,16,True
+601,Gold,Yoga,Los Angeles,15,True
+602,Gold,Spin,Miami,0,True
+603,Gold,Pilates,Los Angeles,10,True
+604,Gold,Pilates,New York,19,False
+605,Silver,Spin,New York,6,True
+606,Bronze,HIIT,Chicago,4,True
+607,Silver,HIIT,New York,10,False
+608,Gold,HIIT,Los Angeles,5,False
+609,Silver,Pilates,Los Angeles,10,True
+610,Bronze,Pilates,Dallas,1,False
+611,Silver,HIIT,Miami,0,False
+612,Bronze,Yoga,New York,4,True
+613,Gold,HIIT,Miami,18,False
+614,Silver,Yoga,New York,4,True
+615,Silver,HIIT,Chicago,3,False
+616,Silver,Yoga,Chicago,16,True
+617,Silver,Pilates,Miami,11,False
+618,Gold,HIIT,Los Angeles,2,False
+619,Bronze,HIIT,Dallas,11,True
+620,Bronze,Spin,New York,12,True
+621,Silver,HIIT,New York,18,True
+622,Gold,Yoga,Dallas,3,True
+623,Bronze,Spin,Miami,10,False
+624,Bronze,HIIT,Miami,9,True
+625,Bronze,HIIT,New York,10,True
+626,Bronze,Pilates,Chicago,4,True
+627,Bronze,Spin,Dallas,5,False
+628,Bronze,Yoga,New York,13,False
+629,Gold,HIIT,Chicago,20,True
+630,Silver,Pilates,Miami,15,True
+631,Bronze,HIIT,Chicago,20,False
+632,Gold,Spin,Los Angeles,10,True
+633,Gold,Yoga,New York,5,True
+634,Silver,Pilates,Dallas,17,False
+635,Silver,HIIT,Chicago,19,False
+636,Bronze,Yoga,Miami,11,True
+637,Silver,HIIT,Chicago,7,True
+638,Silver,HIIT,Miami,18,True
+639,Gold,Spin,Los Angeles,5,False
+640,Gold,Spin,Miami,12,False
+641,Gold,HIIT,Dallas,9,False
+642,Bronze,Pilates,Los Angeles,9,False
+643,Bronze,Spin,Chicago,4,True
+644,Silver,Spin,New York,5,True
+645,Silver,Spin,Miami,0,False
+646,Bronze,Spin,Dallas,18,True
+647,Bronze,Yoga,New York,12,False
+648,Gold,HIIT,New York,18,False
+649,Bronze,Yoga,Los Angeles,1,True
+650,Bronze,Yoga,Chicago,5,False
+651,Silver,HIIT,New York,19,False
+652,Silver,Spin,Dallas,10,False
+653,Gold,Pilates,Miami,19,True
+654,Bronze,Spin,Miami,7,False
+655,Silver,Spin,Miami,20,False
+656,Bronze,Spin,Los Angeles,18,True
+657,Bronze,Spin,Dallas,3,False
+658,Gold,Pilates,New York,15,False
+659,Bronze,Yoga,Dallas,4,False
+660,Gold,Pilates,Los Angeles,10,False
+661,Silver,HIIT,Los Angeles,2,False
+662,Silver,Spin,Chicago,7,True
+663,Silver,Pilates,Dallas,11,True
+664,Silver,HIIT,Miami,10,False
+665,Gold,Pilates,Los Angeles,5,True
+666,Gold,Spin,Los Angeles,20,True
+667,Silver,Spin,Chicago,2,True
+668,Silver,HIIT,Miami,20,False
+669,Silver,Pilates,Los Angeles,10,True
+670,Gold,Spin,New York,14,True
+671,Silver,HIIT,Miami,0,True
+672,Gold,Pilates,Dallas,8,True
+673,Bronze,Pilates,Chicago,6,False
+674,Silver,HIIT,New York,7,True
+675,Gold,Pilates,New York,2,True
+676,Gold,Pilates,Dallas,11,False
+677,Gold,Spin,Chicago,8,False
+678,Bronze,Spin,Los Angeles,3,True
+679,Silver,Spin,Chicago,0,False
+680,Gold,HIIT,Los Angeles,1,False
+681,Silver,Yoga,Dallas,12,False
+682,Gold,Pilates,Dallas,14,True
+683,Silver,HIIT,New York,13,True
+684,Bronze,Yoga,New York,5,False
+685,Gold,Yoga,New York,13,True
+686,Gold,HIIT,Dallas,15,True
+687,Bronze,Yoga,Los Angeles,12,True
+688,Silver,Spin,Dallas,11,True
+689,Gold,HIIT,Dallas,17,True
+690,Bronze,Pilates,New York,12,True
+691,Gold,Spin,Chicago,3,True
+692,Gold,Pilates,New York,15,True
+693,Gold,Yoga,Chicago,18,True
+694,Silver,Spin,Los Angeles,20,True
+695,Bronze,Pilates,Los Angeles,7,False
+696,Bronze,HIIT,Miami,5,True
+697,Bronze,Yoga,Miami,14,False
+698,Bronze,Pilates,Miami,2,True
+699,Gold,Yoga,Los Angeles,1,False
+700,Silver,Pilates,New York,9,True
+701,Bronze,HIIT,New York,0,True
+702,Silver,Spin,New York,10,False
+703,Bronze,Pilates,Dallas,8,False
+704,Bronze,Yoga,Miami,3,False
+705,Gold,HIIT,New York,2,True
+706,Gold,Spin,Miami,10,True
+707,Gold,Yoga,Miami,5,False
+708,Silver,HIIT,Dallas,12,True
+709,Gold,Yoga,Los Angeles,5,True
+710,Gold,HIIT,New York,2,False
+711,Bronze,Spin,Dallas,17,True
+712,Bronze,Spin,Los Angeles,2,False
+713,Gold,Yoga,Los Angeles,10,False
+714,Gold,HIIT,New York,19,True
+715,Silver,Pilates,Miami,19,True
+716,Silver,Spin,Chicago,15,False
+717,Bronze,Pilates,Miami,0,False
+718,Silver,Pilates,Miami,13,True
+719,Gold,Yoga,Chicago,20,True
+720,Gold,Yoga,Los Angeles,5,True
+721,Bronze,Yoga,Chicago,19,True
+722,Gold,HIIT,Chicago,13,False
+723,Gold,Spin,Dallas,5,True
+724,Gold,Spin,Dallas,1,True
+725,Gold,Pilates,Dallas,3,True
+726,Silver,Yoga,Los Angeles,10,False
+727,Silver,HIIT,Chicago,6,True
+728,Silver,Spin,New York,6,True
+729,Silver,HIIT,Chicago,13,True
+730,Silver,Yoga,Los Angeles,17,False
+731,Bronze,Yoga,Dallas,17,True
+732,Gold,Spin,Los Angeles,8,True
+733,Bronze,Pilates,Dallas,9,False
+734,Gold,Pilates,Los Angeles,9,False
+735,Gold,Yoga,New York,7,False
+736,Gold,Yoga,Dallas,3,True
+737,Bronze,Pilates,Dallas,1,False
+738,Gold,Yoga,Chicago,12,True
+739,Gold,Spin,Los Angeles,18,False
+740,Silver,Spin,Miami,17,False
+741,Silver,HIIT,Miami,15,False
+742,Gold,Pilates,Chicago,4,True
+743,Silver,Yoga,Los Angeles,1,False
+744,Bronze,HIIT,New York,11,True
+745,Gold,Spin,Chicago,0,False
+746,Bronze,Pilates,Dallas,13,False
+747,Silver,Spin,New York,2,True
+748,Silver,Yoga,Los Angeles,9,True
+749,Bronze,HIIT,Dallas,20,False
+750,Gold,Yoga,Miami,19,False
+751,Silver,Yoga,Los Angeles,15,False
+752,Silver,Pilates,Dallas,6,True
+753,Silver,Pilates,Los Angeles,3,True
+754,Bronze,Yoga,Dallas,0,True
+755,Bronze,Pilates,Los Angeles,6,True
+756,Silver,HIIT,Miami,5,True
+757,Gold,HIIT,Chicago,20,False
+758,Bronze,Yoga,Dallas,9,True
+759,Gold,HIIT,Dallas,2,False
+760,Bronze,Yoga,Miami,15,False
+761,Bronze,HIIT,Chicago,3,False
+762,Gold,Spin,Los Angeles,9,True
+763,Gold,Yoga,Dallas,12,True
+764,Gold,HIIT,Chicago,15,False
+765,Bronze,Spin,Los Angeles,15,False
+766,Gold,Yoga,Dallas,8,False
+767,Gold,HIIT,Dallas,2,False
+768,Gold,HIIT,Los Angeles,20,False
+769,Gold,Spin,Miami,17,False
+770,Gold,Pilates,Chicago,12,False
+771,Gold,Pilates,Dallas,5,True
+772,Gold,Spin,Los Angeles,11,False
+773,Bronze,Spin,Dallas,12,False
+774,Gold,Yoga,Los Angeles,11,True
+775,Bronze,Pilates,Dallas,5,False
+776,Silver,Yoga,New York,14,False
+777,Silver,HIIT,Miami,1,False
+778,Bronze,Spin,Chicago,8,False
+779,Gold,Yoga,Miami,14,False
+780,Bronze,Spin,Miami,14,False
+781,Silver,Yoga,Chicago,8,True
+782,Bronze,HIIT,Miami,7,True
+783,Silver,HIIT,New York,8,True
+784,Bronze,Pilates,Los Angeles,18,False
+785,Bronze,Pilates,Chicago,1,True
+786,Bronze,HIIT,Los Angeles,4,True
+787,Bronze,Yoga,Dallas,3,True
+788,Bronze,Spin,New York,2,False
+789,Silver,HIIT,Los Angeles,11,False
+790,Bronze,HIIT,Los Angeles,17,True
+791,Bronze,Yoga,Chicago,13,True
+792,Bronze,HIIT,Dallas,18,False
+793,Gold,HIIT,Chicago,7,True
+794,Silver,Yoga,Dallas,17,True
+795,Bronze,HIIT,Chicago,1,True
+796,Silver,Pilates,Los Angeles,12,False
+797,Bronze,Pilates,Los Angeles,16,False
+798,Gold,Pilates,New York,13,True
+799,Silver,Pilates,Los Angeles,17,True
+800,Gold,HIIT,Miami,15,False
+801,Gold,Spin,Los Angeles,18,True
+802,Bronze,Pilates,Miami,7,False
+803,Silver,Pilates,Los Angeles,15,True
+804,Silver,HIIT,Miami,9,True
+805,Silver,HIIT,Miami,2,False
+806,Silver,Yoga,Los Angeles,12,False
+807,Bronze,Pilates,Miami,1,False
+808,Bronze,Yoga,New York,16,True
+809,Gold,Pilates,Dallas,18,True
+810,Bronze,Spin,Miami,16,False
+811,Silver,HIIT,Miami,18,False
+812,Bronze,HIIT,New York,19,True
+813,Gold,Yoga,New York,4,True
+814,Silver,Yoga,Chicago,3,False
+815,Silver,HIIT,Dallas,14,True
+816,Gold,HIIT,Chicago,5,True
+817,Gold,HIIT,Miami,5,True
+818,Silver,Pilates,New York,6,True
+819,Bronze,Pilates,Miami,6,True
+820,Bronze,Spin,Los Angeles,4,False
+821,Silver,Pilates,Dallas,1,True
+822,Silver,HIIT,Los Angeles,13,True
+823,Silver,Pilates,New York,2,True
+824,Bronze,Yoga,New York,13,True
+825,Bronze,HIIT,New York,6,False
+826,Silver,Pilates,Dallas,20,False
+827,Gold,HIIT,Chicago,4,False
+828,Silver,Yoga,Miami,19,False
+829,Silver,Yoga,Miami,8,False
+830,Bronze,Pilates,Miami,10,True
+831,Silver,HIIT,Miami,2,True
+832,Bronze,Spin,Miami,2,True
+833,Gold,Yoga,Chicago,12,True
+834,Silver,Spin,Los Angeles,17,False
+835,Gold,Pilates,Dallas,12,False
+836,Silver,Yoga,Los Angeles,17,False
+837,Gold,Spin,Los Angeles,10,False
+838,Bronze,Yoga,Miami,8,True
+839,Silver,Spin,Miami,16,True
+840,Silver,HIIT,Chicago,14,False
+841,Gold,HIIT,Dallas,0,False
+842,Bronze,Pilates,New York,19,True
+843,Gold,Yoga,Los Angeles,18,False
+844,Gold,Spin,New York,16,True
+845,Bronze,Pilates,Dallas,13,False
+846,Gold,HIIT,Los Angeles,3,True
+847,Gold,HIIT,New York,13,True
+848,Silver,Pilates,New York,4,False
+849,Gold,Yoga,Chicago,4,False
+850,Silver,Spin,Dallas,18,True
+851,Bronze,HIIT,Dallas,18,False
+852,Gold,Pilates,Dallas,18,False
+853,Bronze,HIIT,Los Angeles,3,False
+854,Silver,HIIT,Chicago,3,False
+855,Silver,Spin,Miami,18,False
+856,Silver,Yoga,Los Angeles,3,True
+857,Gold,Yoga,Dallas,9,False
+858,Silver,Spin,Los Angeles,17,False
+859,Silver,Pilates,New York,11,False
+860,Gold,Pilates,Los Angeles,13,True
+861,Gold,Yoga,Los Angeles,8,False
+862,Gold,HIIT,Dallas,12,True
+863,Silver,HIIT,New York,20,False
+864,Silver,Pilates,Dallas,15,True
+865,Gold,Spin,New York,18,False
+866,Gold,HIIT,New York,19,True
+867,Bronze,Pilates,New York,15,True
+868,Bronze,Spin,Dallas,1,False
+869,Gold,Yoga,New York,5,False
+870,Gold,Spin,Chicago,8,False
+871,Bronze,Yoga,Chicago,12,True
+872,Gold,Pilates,Miami,4,False
+873,Silver,Spin,Chicago,19,True
+874,Silver,Pilates,Miami,19,False
+875,Silver,Yoga,Chicago,12,True
+876,Gold,HIIT,Dallas,1,False
+877,Gold,HIIT,Miami,12,False
+878,Bronze,Yoga,Los Angeles,10,True
+879,Gold,HIIT,Los Angeles,7,True
+880,Gold,HIIT,Chicago,1,False
+881,Bronze,Spin,Los Angeles,15,False
+882,Gold,Spin,Chicago,8,False
+883,Bronze,HIIT,Chicago,11,True
+884,Gold,Spin,Los Angeles,0,False
+885,Gold,Yoga,Los Angeles,10,True
+886,Gold,Spin,New York,9,True
+887,Gold,Spin,Miami,9,False
+888,Silver,Spin,Chicago,8,True
+889,Silver,Pilates,Los Angeles,15,True
+890,Gold,Yoga,Miami,3,True
+891,Silver,HIIT,Los Angeles,7,False
+892,Bronze,HIIT,Los Angeles,4,True
+893,Silver,Pilates,New York,9,True
+894,Bronze,Spin,Chicago,14,True
+895,Bronze,Yoga,Chicago,10,True
+896,Bronze,Yoga,Dallas,8,False
+897,Silver,HIIT,New York,13,True
+898,Gold,Pilates,Miami,19,True
+899,Gold,Pilates,New York,20,True
+900,Silver,Pilates,Miami,2,True
+901,Bronze,Pilates,Chicago,6,False
+902,Silver,Yoga,Dallas,14,True
+903,Gold,Spin,Dallas,6,True
+904,Silver,HIIT,Chicago,13,False
+905,Silver,Yoga,Los Angeles,15,False
+906,Gold,Pilates,New York,16,False
+907,Gold,Pilates,Dallas,11,False
+908,Bronze,HIIT,Los Angeles,1,False
+909,Bronze,Spin,Miami,16,False
+910,Gold,Spin,Dallas,5,True
+911,Bronze,Spin,Miami,2,False
+912,Gold,Pilates,Los Angeles,9,False
+913,Silver,Yoga,Miami,16,True
+914,Bronze,Yoga,Los Angeles,12,True
+915,Gold,Spin,Miami,4,True
+916,Silver,HIIT,New York,16,False
+917,Silver,Spin,Dallas,18,False
+918,Gold,Spin,Dallas,0,True
+919,Gold,HIIT,Los Angeles,5,False
+920,Silver,Spin,Miami,6,False
+921,Silver,HIIT,Chicago,6,True
+922,Gold,HIIT,Dallas,1,False
+923,Gold,Yoga,Miami,7,True
+924,Silver,HIIT,Miami,1,False
+925,Silver,Spin,New York,14,False
+926,Gold,HIIT,Chicago,1,True
+927,Gold,Spin,Dallas,11,True
+928,Silver,HIIT,New York,6,True
+929,Gold,Yoga,Chicago,8,False
+930,Gold,Spin,Dallas,11,True
+931,Gold,Spin,New York,14,False
+932,Gold,Spin,Chicago,16,False
+933,Bronze,HIIT,Dallas,12,False
+934,Bronze,Yoga,Chicago,20,True
+935,Silver,Yoga,Miami,3,False
+936,Bronze,Yoga,Los Angeles,0,True
+937,Gold,Yoga,Los Angeles,7,False
+938,Bronze,HIIT,Miami,11,False
+939,Silver,Spin,Chicago,15,False
+940,Silver,Pilates,Miami,19,False
+941,Silver,Yoga,Los Angeles,14,True
+942,Bronze,Pilates,Los Angeles,5,False
+943,Bronze,HIIT,Chicago,15,False
+944,Bronze,HIIT,Los Angeles,18,True
+945,Silver,Pilates,Miami,17,False
+946,Gold,Spin,Chicago,11,False
+947,Gold,Pilates,Miami,11,False
+948,Silver,HIIT,Chicago,5,False
+949,Silver,Pilates,Los Angeles,8,False
+950,Silver,Yoga,Dallas,2,False
+951,Silver,Yoga,Chicago,9,True
+952,Gold,Spin,Chicago,0,True
+953,Bronze,Pilates,Dallas,12,True
+954,Bronze,Pilates,Los Angeles,1,True
+955,Gold,Pilates,Miami,5,False
+956,Bronze,Pilates,New York,18,True
+957,Gold,Spin,Dallas,6,False
+958,Bronze,HIIT,New York,7,False
+959,Gold,Spin,Los Angeles,20,True
+960,Bronze,HIIT,Chicago,7,True
+961,Silver,HIIT,Chicago,6,True
+962,Silver,HIIT,Los Angeles,8,False
+963,Bronze,Pilates,Miami,20,True
+964,Gold,Spin,Miami,13,True
+965,Bronze,HIIT,Los Angeles,16,False
+966,Bronze,Yoga,Los Angeles,0,False
+967,Silver,HIIT,Los Angeles,0,True
+968,Gold,Spin,Los Angeles,15,False
+969,Silver,Pilates,Los Angeles,4,False
+970,Bronze,Yoga,Los Angeles,20,False
+971,Silver,HIIT,Chicago,5,False
+972,Gold,Pilates,New York,19,True
+973,Bronze,Spin,Miami,0,False
+974,Bronze,Spin,New York,7,True
+975,Silver,Yoga,Chicago,8,True
+976,Gold,Yoga,Dallas,19,True
+977,Gold,HIIT,New York,9,True
+978,Gold,Pilates,Dallas,20,False
+979,Gold,Pilates,Chicago,8,False
+980,Gold,Spin,Miami,13,True
+981,Bronze,Spin,Dallas,12,False
+982,Bronze,HIIT,Chicago,11,False
+983,Gold,HIIT,Los Angeles,14,False
+984,Gold,Spin,Miami,8,False
+985,Bronze,Spin,Los Angeles,6,False
+986,Bronze,Pilates,Miami,14,False
+987,Gold,Pilates,Miami,9,False
+988,Gold,Pilates,New York,16,True
+989,Bronze,HIIT,Miami,19,False
+990,Silver,Pilates,New York,12,True
+991,Silver,Yoga,Dallas,18,False
+992,Silver,Yoga,Miami,3,True
+993,Bronze,Pilates,Dallas,0,True
+994,Bronze,Pilates,Miami,16,False
+995,Bronze,Spin,New York,11,False
+996,Silver,Spin,Los Angeles,17,False
+997,Gold,HIIT,Miami,20,False
+998,Bronze,Yoga,Chicago,19,False
+999,Bronze,Yoga,Los Angeles,19,True
+1000,Bronze,HIIT,New York,9,False

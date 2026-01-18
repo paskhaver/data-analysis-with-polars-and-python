@@ -1,0 +1,908 @@
+Program,Level,University,City,Country,Duration_Years,Tuition
+AI Engineering,Master,Ulsan National Institute of Science and Technology,Ulsan,South Korea,2.0,6100
+Aerospace Engineering,Bachelor,University of Michigan,Ann Arbor,USA,4.0,52300
+Aerospace Engineering,Master,University of Stuttgart,Stuttgart,Germany,2.0,0
+Applied Mathematics,Master,Moscow State University,Moscow,Russia,2.0,3900
+Architecture,Bachelor,University of Lisbon,Lisbon,Portugal,3.0,3500
+Architecture,Bachelor,University of Barcelona,Barcelona,Spain,4.0,2800
+Artificial Intelligence,Bachelor,Hasselt University,Hasselt,Belgium,3.0,3400
+Artificial Intelligence,Bachelor,UTPL,Loja,Ecuador,3.0,6800
+Artificial Intelligence,Bachelor,University of Twente,Enschede,Netherlands,3.0,11200
+Artificial Intelligence,Bachelor,Kazan Federal University,Kazan,Russia,4.0,4500
+Artificial Intelligence,Bachelor,University of Carthage,Bizerte,Tunisia,3.0,1200
+Artificial Intelligence,Bachelor,Selcuk University,Konya,Turkey,4.0,1000
+Artificial Intelligence,Master,University of Wollongong,Wollongong,Australia,2.0,32900
+Artificial Intelligence,Master,Johannes Kepler University,Linz,Austria,2.0,1500
+Artificial Intelligence,Master,University of Ottawa,Ottawa,Canada,2.0,40000
+Artificial Intelligence,Master,Laval University,Quebec City,Canada,2.0,21500
+Artificial Intelligence,Master,Shanghai Jiao Tong University,Shanghai,China,2.5,8200
+Artificial Intelligence,Master,SUSTech,Shenzhen,China,2.0,8200
+Artificial Intelligence,Master,Grenoble INP,Grenoble,France,2.0,4500
+Artificial Intelligence,Master,Aix-Marseille University,Marseille,France,2.0,4100
+Artificial Intelligence,Master,KIT,Karlsruhe,Germany,2.0,500
+Artificial Intelligence,Master,Brawijaya University,Malang,Indonesia,2.0,3500
+Artificial Intelligence,Master,University of Padua,Padua,Italy,2.0,3400
+Artificial Intelligence,Master,Politecnico di Torino,Turin,Italy,2.0,3800
+Artificial Intelligence,Master,University of Luxembourg,Luxembourg City,Luxembourg,2.0,400
+Artificial Intelligence,Master,UKM,Bangi,Malaysia,2.0,7200
+Artificial Intelligence,Master,University of Amsterdam,Amsterdam,Netherlands,1.0,15800
+Artificial Intelligence,Master,TU Eindhoven,Eindhoven,Netherlands,2.0,14800
+Artificial Intelligence,Master,University of Bergen,Bergen,Norway,2.0,0
+Artificial Intelligence,Master,Universidad Tecnologica,Panama City,Panama,2.0,7500
+Artificial Intelligence,Master,Wroclaw University of Technology,Wroclaw,Poland,2.0,2600
+Artificial Intelligence,Master,NUS,Singapore,Singapore,2.0,35600
+Artificial Intelligence,Master,National University of Singapore,Singapore,Singapore,2.0,42000
+Artificial Intelligence,Master,Singapore University of Technology,Singapore,Singapore,2.0,39000
+Artificial Intelligence,Master,Korea University,Seoul,South Korea,2.0,7000
+Artificial Intelligence,Master,Universitat Politècnica Catalunya,Barcelona,Spain,2.0,3800
+Artificial Intelligence,Master,University of Granada,Granada,Spain,2.0,2800
+Artificial Intelligence,Master,Umeå University,Umeå,Sweden,2.0,0
+Artificial Intelligence,Master,USI,Lugano,Switzerland,2.0,1460
+Artificial Intelligence,Master,University of Sfax,Sfax,Tunisia,2.0,1400
+Artificial Intelligence,Master,Harvard University,Boston,USA,2.0,58000
+Artificial Intelligence,Master,University of Chicago,Chicago,USA,2.0,58000
+Artificial Intelligence,PhD,University of Melbourne,Melbourne,Australia,4.0,29000
+Artificial Intelligence,PhD,CUET,Chittagong,Bangladesh,4.0,2200
+Artificial Intelligence,PhD,KU Leuven,Leuven,Belgium,4.0,3800
+Artificial Intelligence,PhD,University of Ruse,Ruse,Bulgaria,4.0,3300
+Artificial Intelligence,PhD,American University Cyprus,Larnaca,Cyprus,4.0,8200
+Artificial Intelligence,PhD,IIT Delhi,Delhi,India,4.0,1900
+Artificial Intelligence,PhD,IIT Kanpur,Kanpur,India,4.0,1900
+Artificial Intelligence,PhD,University of Tabriz,Tabriz,Iran,4.0,2600
+Artificial Intelligence,PhD,Tokyo Institute of Technology,Tokyo,Japan,3.0,8900
+Artificial Intelligence,PhD,Gulf University for Science,Al Jahra,Kuwait,4.0,14000
+Artificial Intelligence,PhD,Cadi Ayyad University,Marrakech,Morocco,4.0,2100
+Artificial Intelligence,PhD,University of Amsterdam,Amsterdam,Netherlands,4.0,15000
+Artificial Intelligence,PhD,University of Zaragoza,Zaragoza,Spain,4.0,2900
+Artificial Intelligence,PhD,University of Cambridge,Cambridge,UK,4.0,45000
+Artificial Intelligence,PhD,University of Sheffield,Sheffield,UK,3.0,27900
+Artificial Intelligence,PhD,Johns Hopkins,Baltimore,USA,5.0,53600
+Artificial Intelligence,PhD,Odesa Polytechnic,Odesa,Ukraine,4.0,3600
+Bioinformatics,Master,University of Copenhagen,Copenhagen,Denmark,2.0,0
+Bioinformatics,Master,University of Copenhagen,Slagelse,Denmark,2.0,0
+Bioinformatics,Master,University of Turku,Turku,Finland,2.0,0
+Bioinformatics,Master,Wageningen University,Wageningen,Netherlands,2.0,14900
+Bioinformatics,Master,Wageningen University,Wageningen,Netherlands,2.0,14500
+Biomedical Sciences,Bachelor,KU Leuven,Brussels,Belgium,3.0,3500
+Biomedical Sciences,PhD,University of Oxford,Oxford,UK,4.0,29800
+Biotechnology,Master,University of Southern Denmark,Odense,Denmark,2.0,0
+Biotechnology,Master,Norwegian University of Life Sciences,Ås,Norway,2.0,0
+Biotechnology,Master,UC San Diego,San Diego,USA,2.0,49000
+Biotechnology,PhD,University of Sydney,Sydney,Australia,4.0,31000
+Business,Bachelor,University of Sydney,Sydney,Australia,3.0,35000
+Business,Bachelor,Pusan National University,Busan,South Korea,4.0,5900
+Business Analytics,Master,University of Toronto,Toronto,Canada,2.0,45000
+Business Analytics,Master,University of Toronto,Toronto,Canada,2.0,38500
+Business Analytics,Master,Chamber of Commerce School,Bertrange,Luxembourg,2.0,400
+Business Analytics,Master,VU Amsterdam,Amsterdam,Netherlands,2.0,15400
+Business Analytics,Master,Erasmus University,Rotterdam,Netherlands,2.0,14500
+Business Informatics,Bachelor,University of St. Gallen,St. Gallen,Switzerland,3.0,1440
+Chemical Engineering,Bachelor,UT Austin,Austin,USA,4.0,40900
+Chemistry,Master,University of Newcastle,Newcastle,Australia,2.0,27000
+Chemistry,Master,University of Edinburgh,Edinburgh,UK,2.0,38000
+Chemistry,PhD,University of Adelaide,Adelaide,Australia,4.0,28000
+Chemistry,PhD,University of Leeds,Leeds,UK,4.0,35000
+Chemistry,PhD,UC San Diego,San Diego,USA,5.0,49000
+Climate Science,PhD,Australian National University,Canberra,Australia,4.0,29800
+Computational Science,Master,University of Basel,Basel,Switzerland,2.0,1440
+Computer Engineering,Bachelor,University of Newcastle,Newcastle,Australia,4.0,31500
+Computer Engineering,Bachelor,University of Victoria,Victoria,Canada,4.0,27900
+Computer Engineering,Bachelor,INTEC,Santo Domingo,Dominican Republic,4.0,6000
+Computer Engineering,Bachelor,American University in Cairo,Cairo,Egypt,4.0,19800
+Computer Engineering,Bachelor,Cairo University,Cairo,Egypt,4.0,2500
+Computer Engineering,Bachelor,Universidad Catolica,Santa Ana,El Salvador,4.0,5000
+Computer Engineering,Bachelor,ITCA-FEPADE,Santa Tecla,El Salvador,4.0,4200
+Computer Engineering,Bachelor,Aalto University,Espoo,Finland,3.0,0
+Computer Engineering,Bachelor,Université Nice Sophia Antipolis,Nice,France,3.0,3900
+Computer Engineering,Bachelor,RWTH Aachen,Aachen,Germany,3.0,500
+Computer Engineering,Bachelor,Democritus University,Xanthi,Greece,4.0,0
+Computer Engineering,Bachelor,Kyushu University,Fukuoka,Japan,4.0,7500
+Computer Engineering,Bachelor,UNAM,Mexico City,Mexico,4.0,800
+Computer Engineering,Bachelor,UNAM,Mexico City,Mexico,4.0,800
+Computer Engineering,Bachelor,Leiden University,Leiden,Netherlands,3.0,11400
+Computer Engineering,Bachelor,Massey University,Palmerston North,New Zealand,3.0,27500
+Computer Engineering,Bachelor,University of Lagos,Lagos,Nigeria,4.0,2500
+Computer Engineering,Bachelor,University of Silesia,Katowice,Poland,3.0,2300
+Computer Engineering,Bachelor,Transilvania University,Brasov,Romania,4.0,2000
+Computer Engineering,Bachelor,University Politehnica,Bucharest,Romania,3.0,2500
+Computer Engineering,Bachelor,University of Tabuk,Tabuk,Saudi Arabia,4.0,4100
+Computer Engineering,Bachelor,University of Fribourg,Fribourg,Switzerland,3.0,1380
+Computer Engineering,Bachelor,Thaksin University,Songkhla,Thailand,4.0,8500
+Computer Engineering,Bachelor,Bogazici University,Istanbul,Turkey,4.0,1800
+Computer Engineering,Bachelor,University of Birmingham,Birmingham,UK,3.0,29500
+Computer Engineering,Bachelor,Vanderbilt University,Nashville,USA,4.0,50800
+Computer Engineering,Master,Badji Mokhtar University,Annaba,Algeria,2.0,1000
+Computer Engineering,Master,University of Oran,Oran,Algeria,2.0,1100
+Computer Engineering,Master,National University of Rosario,Rosario,Argentina,2.0,0
+Computer Engineering,Master,University of Mons,Mons,Belgium,2.0,3500
+Computer Engineering,Master,UNICAMP,Campinas,Brazil,2.0,0
+Computer Engineering,Master,UFPE,Recife,Brazil,2.0,0
+Computer Engineering,Master,Technical University Varna,Varna,Bulgaria,2.0,3100
+Computer Engineering,Master,Tsinghua University,Beijing,China,2.5,8900
+Computer Engineering,Master,Sichuan University,Chengdu,China,3.0,6100
+Computer Engineering,Master,Zhejiang University,Hangzhou,China,3.0,7500
+Computer Engineering,Master,Universidad del Norte,Barranquilla,Colombia,2.0,3800
+Computer Engineering,Master,Girne American University,Girne,Cyprus,2.0,7600
+Computer Engineering,Master,École Normale Supérieure,Lyon,France,2.0,4200
+Computer Engineering,Master,TU Darmstadt,Darmstadt,Germany,2.0,0
+Computer Engineering,Master,University of Patras,Patras,Greece,2.0,0
+Computer Engineering,Master,Aristotle University,Thessaloniki,Greece,2.0,0
+Computer Engineering,Master,University of Miskolc,Miskolc,Hungary,2.0,5300
+Computer Engineering,Master,IIT Bombay,Mumbai,India,2.0,1800
+Computer Engineering,Master,University of Pisa,Pisa,Italy,2.0,3300
+Computer Engineering,Master,Politecnico di Torino,Turin,Italy,2.0,3800
+Computer Engineering,Master,Universidad Autonoma de Yucatan,Merida,Mexico,2.0,3500
+Computer Engineering,Master,UDLAP,Puebla,Mexico,2.0,10000
+Computer Engineering,Master,University of Lisbon,Lisbon,Portugal,2.0,7000
+Computer Engineering,Master,UTAD,Vila Real,Portugal,2.0,5700
+Computer Engineering,Master,University of Nis,Nis,Serbia,2.0,2500
+Computer Engineering,Master,Yeungnam University,Daegu,South Korea,2.0,5400
+Computer Engineering,Master,POSTECH,Pohang,South Korea,2.0,6300
+Computer Engineering,Master,Sungkyunkwan University,Seoul,South Korea,2.0,6400
+Computer Engineering,Master,Universidad de Sevilla,Seville,Spain,2.0,3000
+Computer Engineering,Master,Prince of Songkla University,Phuket,Thailand,2.0,10000
+Computer Engineering,Master,University of Gabes,Gabes,Tunisia,2.0,1400
+Computer Engineering,Master,Bogazici University,Istanbul,Turkey,2.0,1500
+Computer Engineering,Master,RAK University,Ras Al Khaimah,UAE,2.0,22000
+Computer Engineering,Master,University of Leeds,Leeds,UK,2.0,35000
+Computer Engineering,Master,Imperial College,London,UK,2.0,42000
+Computer Engineering,Master,UC Davis,Davis,USA,2.0,42800
+Computer Engineering,Master,University of Washington,Seattle,USA,2.0,51000
+Computer Engineering,PhD,SUST,Sylhet,Bangladesh,4.0,2300
+Computer Engineering,PhD,Université de Sherbrooke,Sherbrooke,Canada,4.0,20500
+Computer Engineering,PhD,Institut Teknologi Bandung,Bandung,Indonesia,4.0,4500
+Computer Engineering,PhD,Hassan II University,Casablanca,Morocco,4.0,2200
+Computer Engineering,PhD,NUS,Singapore,Singapore,4.0,38500
+Computer Engineering,PhD,University of Ljubljana,Ljubljana,Slovenia,4.0,4500
+Computer Engineering,PhD,UCLA,Los Angeles,USA,5.0,52000
+Computer Engineering,PhD,Universidad de la Republica,Montevideo,Uruguay,4.0,0
+Computer Networks,Master,Chungbuk National University,Cheongju,South Korea,2.0,4800
+Computer Science,Bachelor,University of Science and Technology,Algiers,Algeria,3.0,1200
+Computer Science,Bachelor,University of Adelaide,Adelaide,Australia,3.0,39200
+Computer Science,Bachelor,University of Adelaide,Adelaide,Australia,3.0,32800
+Computer Science,Bachelor,University of New England,Armidale,Australia,3.0,33800
+Computer Science,Bachelor,Federation University,Ballarat,Australia,3.0,32800
+Computer Science,Bachelor,Queensland University of Technology,Brisbane,Australia,3.0,38200
+Computer Science,Bachelor,University of Queensland,Brisbane,Australia,3.0,40500
+Computer Science,Bachelor,Australian National University,Canberra,Australia,3.0,41200
+Computer Science,Bachelor,University of Canberra,Canberra,Australia,3.0,34800
+Computer Science,Bachelor,Griffith University,Gold Coast,Australia,3.0,35200
+Computer Science,Bachelor,University of Tasmania,Hobart,Australia,3.0,35800
+Computer Science,Bachelor,Southern Cross University,Lismore,Australia,3.0,32200
+Computer Science,Bachelor,Monash University,Melbourne,Australia,3.0,39800
+Computer Science,Bachelor,RMIT University,Melbourne,Australia,3.0,37200
+Computer Science,Bachelor,University of Melbourne,Melbourne,Australia,3.0,42500
+Computer Science,Bachelor,University of Newcastle,Newcastle,Australia,3.0,36200
+Computer Science,Bachelor,University of Western Australia,Perth,Australia,3.0,38800
+Computer Science,Bachelor,University of New South Wales,Sydney,Australia,3.0,40200
+Computer Science,Bachelor,University of Sydney,Sydney,Australia,3.0,41800
+Computer Science,Bachelor,University of Technology Sydney,Sydney,Australia,3.0,37800
+Computer Science,Bachelor,University of Southern Queensland,Toowoomba,Australia,3.0,33200
+Computer Science,Bachelor,James Cook University,Townsville,Australia,3.0,34200
+Computer Science,Bachelor,University of Wollongong,Wollongong,Australia,3.0,36800
+Computer Science,Bachelor,University of Calgary,Calgary,Canada,4.0,37200
+Computer Science,Bachelor,University of Alberta,Edmonton,Canada,4.0,38200
+Computer Science,Bachelor,Dalhousie University,Halifax,Canada,4.0,34200
+Computer Science,Bachelor,McMaster University,Hamilton,Canada,4.0,36500
+Computer Science,Bachelor,Queen's University,Kingston,Canada,4.0,35400
+Computer Science,Bachelor,Western University,London,Canada,4.0,35900
+Computer Science,Bachelor,University of New Brunswick,Moncton,Canada,4.0,29400
+Computer Science,Bachelor,McGill University,Montreal,Canada,4.0,41500
+Computer Science,Bachelor,University of Montreal,Montreal,Canada,4.0,39500
+Computer Science,Bachelor,University of Ottawa,Ottawa,Canada,4.0,37800
+Computer Science,Bachelor,UNBC,Prince George,Canada,4.0,27000
+Computer Science,Bachelor,Laval University,Quebec City,Canada,4.0,33000
+Computer Science,Bachelor,University of Regina,Regina,Canada,4.0,31200
+Computer Science,Bachelor,University of Saskatchewan,Saskatoon,Canada,4.0,32400
+Computer Science,Bachelor,University of Sherbrooke,Sherbrooke,Canada,4.0,30600
+Computer Science,Bachelor,Memorial University,St. John's,Canada,4.0,31800
+Computer Science,Bachelor,Laurentian University,Sudbury,Canada,4.0,27600
+Computer Science,Bachelor,Lakehead University,Thunder Bay,Canada,4.0,28200
+Computer Science,Bachelor,University of Toronto,Toronto,Canada,4.0,45200
+Computer Science,Bachelor,UQTR,Trois-Rivieres,Canada,4.0,28800
+Computer Science,Bachelor,University of British Columbia,Vancouver,Canada,4.0,43800
+Computer Science,Bachelor,University of Victoria,Victoria,Canada,4.0,34800
+Computer Science,Bachelor,University of Waterloo,Waterloo,Canada,4.0,40900
+Computer Science,Bachelor,University of Windsor,Windsor,Canada,4.0,30000
+Computer Science,Bachelor,University of Manitoba,Winnipeg,Canada,4.0,33600
+Computer Science,Bachelor,University of Manitoba,Winnipeg,Canada,4.0,26800
+Computer Science,Bachelor,University of Osijek,Osijek,Croatia,3.0,3200
+Computer Science,Bachelor,Aalborg University,Aalborg,Denmark,3.0,0
+Computer Science,Bachelor,Universidad Central Este,La Romana,Dominican Republic,4.0,5000
+Computer Science,Bachelor,University of Helsinki,Helsinki,Finland,3.0,0
+Computer Science,Bachelor,University of Lille,Lille,France,3.0,4200
+Computer Science,Bachelor,University of Toulouse,Toulouse,France,3.0,4000
+Computer Science,Bachelor,RWTH Aachen,Aachen,Germany,3.0,0
+Computer Science,Bachelor,Humboldt University,Berlin,Germany,3.0,0
+Computer Science,Bachelor,TU Dresden,Dresden,Germany,3.0,0
+Computer Science,Bachelor,NUI Galway,Galway,Ireland,4.0,25800
+Computer Science,Bachelor,University of Limerick,Limerick,Ireland,4.0,15400
+Computer Science,Bachelor,Tel Aviv University,Tel Aviv,Israel,3.0,12000
+Computer Science,Bachelor,University of Naples,Naples,Italy,3.0,3200
+Computer Science,Bachelor,Lebanese International,Sidon,Lebanon,4.0,15000
+Computer Science,Bachelor,Luxembourg Institute of Science,Belval,Luxembourg,3.0,400
+Computer Science,Bachelor,University of Malaya,Kuala Lumpur,Malaysia,4.0,4800
+Computer Science,Bachelor,USIM,Nilai,Malaysia,3.0,6800
+Computer Science,Bachelor,Mohammed I University,Oujda,Morocco,4.0,1700
+Computer Science,Bachelor,Moscow State University,Moscow,Russia,4.0,5500
+Computer Science,Bachelor,Nanyang Technological University,Singapore,Singapore,4.0,32500
+Computer Science,Bachelor,University of Cape Town,Cape Town,South Africa,3.0,5900
+Computer Science,Bachelor,Universidad de Granada,Granada,Spain,3.0,2800
+Computer Science,Bachelor,Chulalongkorn University,Bangkok,Thailand,4.0,3800
+Computer Science,Bachelor,American University in Dubai,Dubai,UAE,4.0,29500
+Computer Science,Bachelor,University of Aberdeen,Aberdeen,UK,4.0,27700
+Computer Science,Bachelor,Aston University,Aston,UK,3.0,22300
+Computer Science,Bachelor,University of Bath,Bath,UK,3.0,26200
+Computer Science,Bachelor,University of Birmingham,Birmingham,UK,3.0,30500
+Computer Science,Bachelor,University of Bristol,Bristol,UK,3.0,31500
+Computer Science,Bachelor,Brunel University London,Brunel,UK,3.0,23800
+Computer Science,Bachelor,University of Cambridge,Cambridge,UK,3.0,38500
+Computer Science,Bachelor,Cardiff University,Cardiff,UK,3.0,28300
+Computer Science,Bachelor,Coventry University,Coventry,UK,3.0,20200
+Computer Science,Bachelor,De Montfort University,De Montfort,UK,3.0,19600
+Computer Science,Bachelor,University of Dundee,Dundee,UK,4.0,25000
+Computer Science,Bachelor,Durham University,Durham,UK,3.0,28900
+Computer Science,Bachelor,University of Edinburgh,Edinburgh,UK,4.0,32500
+Computer Science,Bachelor,University of Essex,Essex,UK,3.0,26500
+Computer Science,Bachelor,University of Exeter,Exeter,UK,3.0,25600
+Computer Science,Bachelor,University of Glasgow,Glasgow,UK,4.0,30800
+Computer Science,Bachelor,University of Greenwich,Greenwich,UK,3.0,19000
+Computer Science,Bachelor,Heriot-Watt University,Heriot-Watt,UK,4.0,24400
+Computer Science,Bachelor,University of Hull,Hull,UK,3.0,22000
+Computer Science,Bachelor,Keele University,Keele,UK,3.0,21700
+Computer Science,Bachelor,University of Kent,Kent,UK,3.0,25300
+Computer Science,Bachelor,Kingston University,Kingston,UK,3.0,18700
+Computer Science,Bachelor,Lancaster University,Lancaster,UK,3.0,22900
+Computer Science,Bachelor,Leeds Beckett University,Leeds,UK,3.0,34000
+Computer Science,Bachelor,University of Leeds,Leeds,UK,3.0,30200
+Computer Science,Bachelor,University of Leicester,Leicester,UK,3.0,27400
+Computer Science,Bachelor,University of Liverpool,Liverpool,UK,3.0,28600
+Computer Science,Bachelor,Imperial College London,London,UK,3.0,37500
+Computer Science,Bachelor,King's College London,London,UK,3.0,35500
+Computer Science,Bachelor,University College London,London,UK,3.0,36800
+Computer Science,Bachelor,Loughborough University,Loughborough,UK,3.0,24100
+Computer Science,Bachelor,University of Manchester,Manchester,UK,3.0,31800
+Computer Science,Bachelor,Newcastle University,Newcastle,UK,3.0,28000
+Computer Science,Bachelor,Northumbria University,Northumbria,UK,3.0,20500
+Computer Science,Bachelor,University of Nottingham,Nottingham,UK,3.0,29500
+Computer Science,Bachelor,University of Nottingham,Nottingham,UK,3.0,28900
+Computer Science,Bachelor,University of Oxford,Oxford,UK,3.0,37900
+Computer Science,Bachelor,Oxford Brookes University,Oxford Brookes,UK,3.0,19900
+Computer Science,Bachelor,University of Plymouth,Plymouth,UK,3.0,21400
+Computer Science,Bachelor,University of Portsmouth,Portsmouth,UK,3.0,21100
+Computer Science,Bachelor,Queen Mary University of London,Queen Mary,UK,3.0,23500
+Computer Science,Bachelor,University of Reading,Reading,UK,3.0,27100
+Computer Science,Bachelor,Royal Holloway University,Royal Holloway,UK,3.0,23200
+Computer Science,Bachelor,University of Sheffield,Sheffield,UK,3.0,29800
+Computer Science,Bachelor,University of Southampton,Southampton,UK,3.0,29200
+Computer Science,Bachelor,University of Strathclyde,Strathclyde,UK,4.0,24700
+Computer Science,Bachelor,University of Surrey,Surrey,UK,3.0,25900
+Computer Science,Bachelor,University of Sussex,Sussex,UK,3.0,26800
+Computer Science,Bachelor,Swansea University,Swansea,UK,3.0,22600
+Computer Science,Bachelor,Ulster University,Ulster,UK,3.0,20800
+Computer Science,Bachelor,University of Warwick,Warwick,UK,3.0,31200
+Computer Science,Bachelor,University of Westminster,Westminster,UK,3.0,19300
+Computer Science,Bachelor,University of Michigan,Ann Arbor,USA,4.0,52000
+Computer Science,Bachelor,Georgia Tech,Atlanta,USA,4.0,33500
+Computer Science,Bachelor,University of Texas Austin,Austin,USA,4.0,40500
+Computer Science,Bachelor,UC Berkeley,Berkeley,USA,4.0,43500
+Computer Science,Bachelor,UC Berkeley,Berkeley,USA,4.0,44900
+Computer Science,Bachelor,MIT,Cambridge,USA,4.0,55800
+Computer Science,Bachelor,Texas A&M University,College Station,USA,4.0,27000
+Computer Science,Bachelor,Ohio State University,Columbus,USA,4.0,32800
+Computer Science,Bachelor,Oregon State University,Corvallis,USA,4.0,26500
+Computer Science,Bachelor,University of Florida,Gainesville,USA,4.0,28500
+Computer Science,Bachelor,UCLA,Los Angeles,USA,4.0,43000
+Computer Science,Bachelor,University of Wisconsin-Madison,Madison,USA,4.0,37500
+Computer Science,Bachelor,University of Minnesota,Minneapolis,USA,4.0,42500
+Computer Science,Bachelor,Yale University,New Haven,USA,4.0,54500
+Computer Science,Bachelor,University of Pennsylvania,Philadelphia,USA,4.0,53500
+Computer Science,Bachelor,Princeton University,Princeton,USA,4.0,54000
+Computer Science,Bachelor,NC State University,Raleigh,USA,4.0,27500
+Computer Science,Bachelor,UC San Diego,San Diego,USA,4.0,44200
+Computer Science,Bachelor,University of Washington,Seattle,USA,4.0,39800
+Computer Science,Bachelor,Stanford University,Stanford,USA,4.0,57000
+Computer Science,Bachelor,Arizona State University,Tempe,USA,4.0,28000
+Computer Science,Bachelor,University of Illinois Urbana-Champaign,Urbana,USA,4.0,36800
+Computer Science,Bachelor,Purdue University,West Lafayette,USA,4.0,31500
+Computer Science,Bachelor,Bukhara State University,Bukhara,Uzbekistan,4.0,3500
+Computer Science,Bachelor,INHA University Tashkent,Tashkent,Uzbekistan,4.0,4200
+Computer Science,Master,University of Adelaide,Adelaide,Australia,2.0,42200
+Computer Science,Master,University of New England,Armidale,Australia,2.0,36800
+Computer Science,Master,Federation University,Ballarat,Australia,2.0,35800
+Computer Science,Master,Queensland University of Technology,Brisbane,Australia,2.0,41200
+Computer Science,Master,University of Queensland,Brisbane,Australia,2.0,43500
+Computer Science,Master,Australian National University,Canberra,Australia,2.0,44200
+Computer Science,Master,University of Canberra,Canberra,Australia,2.0,37800
+Computer Science,Master,Griffith University,Gold Coast,Australia,2.0,38200
+Computer Science,Master,University of Tasmania,Hobart,Australia,2.0,38800
+Computer Science,Master,Southern Cross University,Lismore,Australia,2.0,35200
+Computer Science,Master,Monash University,Melbourne,Australia,2.0,42800
+Computer Science,Master,RMIT University,Melbourne,Australia,2.0,40200
+Computer Science,Master,University of Melbourne,Melbourne,Australia,2.0,45800
+Computer Science,Master,University of Newcastle,Newcastle,Australia,2.0,39200
+Computer Science,Master,University of Western Australia,Perth,Australia,2.0,41800
+Computer Science,Master,University of New South Wales,Sydney,Australia,2.0,43200
+Computer Science,Master,University of Sydney,Sydney,Australia,2.0,44900
+Computer Science,Master,University of Technology Sydney,Sydney,Australia,2.0,40800
+Computer Science,Master,University of Southern Queensland,Toowoomba,Australia,2.0,36200
+Computer Science,Master,James Cook University,Townsville,Australia,2.0,37200
+Computer Science,Master,University of Wollongong,Wollongong,Australia,2.0,39800
+Computer Science,Master,Bangladesh University of Engineering,Dhaka,Bangladesh,2.0,2500
+Computer Science,Master,Ghent University,Ghent,Belgium,2.0,3500
+Computer Science,Master,University of Sao Paulo,Sao Paulo,Brazil,2.0,0
+Computer Science,Master,University of Sao Paulo,Sao Paulo,Brazil,2.0,0
+Computer Science,Master,Burgas Free University,Burgas,Bulgaria,2.0,2900
+Computer Science,Master,University of Calgary,Calgary,Canada,2.0,24100
+Computer Science,Master,University of Alberta,Edmonton,Canada,2.0,24900
+Computer Science,Master,Dalhousie University,Halifax,Canada,2.0,22600
+Computer Science,Master,McMaster University,Hamilton,Canada,2.0,23800
+Computer Science,Master,Queen's University,Kingston,Canada,2.0,23200
+Computer Science,Master,Western University,London,Canada,2.0,23500
+Computer Science,Master,Western University,London ON,Canada,2.0,29800
+Computer Science,Master,University of New Brunswick,Moncton,Canada,2.0,20200
+Computer Science,Master,McGill University,Montreal,Canada,2.0,26800
+Computer Science,Master,University of Montreal,Montreal,Canada,2.0,25800
+Computer Science,Master,University of Ottawa,Ottawa,Canada,2.0,24500
+Computer Science,Master,UNBC,Prince George,Canada,2.0,19000
+Computer Science,Master,Laval University,Quebec City,Canada,2.0,22000
+Computer Science,Master,University of Regina,Regina,Canada,2.0,21100
+Computer Science,Master,University of Saskatchewan,Saskatoon,Canada,2.0,21700
+Computer Science,Master,University of Sherbrooke,Sherbrooke,Canada,2.0,20800
+Computer Science,Master,Memorial University,St. John's,Canada,2.0,19800
+Computer Science,Master,Memorial University,St. John's,Canada,2.0,21400
+Computer Science,Master,Laurentian University,Sudbury,Canada,2.0,19300
+Computer Science,Master,Lakehead University,Thunder Bay,Canada,2.0,19600
+Computer Science,Master,University of Toronto,Toronto,Canada,2.0,28500
+Computer Science,Master,UQTR,Trois-Rivieres,Canada,2.0,19900
+Computer Science,Master,University of British Columbia,Vancouver,Canada,2.0,27900
+Computer Science,Master,University of Victoria,Victoria,Canada,2.0,22900
+Computer Science,Master,University of Waterloo,Waterloo,Canada,2.0,26200
+Computer Science,Master,University of Windsor,Windsor,Canada,2.0,20500
+Computer Science,Master,University of Manitoba,Winnipeg,Canada,2.0,22300
+Computer Science,Master,Tsinghua University,Beijing,China,3.0,8900
+Computer Science,Master,Sun Yat-sen University,Guangzhou,China,3.0,6900
+Computer Science,Master,University of Copenhagen,Copenhagen,Denmark,2.0,8800
+Computer Science,Master,Universidad San Francisco,Quito,Ecuador,2.0,8500
+Computer Science,Master,Port Said University,Port Said,Egypt,2.0,2100
+Computer Science,Master,University of Nice,Nice,France,2.0,4100
+Computer Science,Master,Sorbonne University,Paris,France,2.0,4500
+Computer Science,Master,École Polytechnique,Paris,France,2.0,15600
+Computer Science,Master,University of Strasbourg,Strasbourg,France,2.0,4000
+Computer Science,Master,TU Dresden,Dresden,Germany,2.0,500
+Computer Science,Master,Goethe University,Frankfurt,Germany,2.0,0
+Computer Science,Master,University of Crete,Heraklion,Greece,2.0,0
+Computer Science,Master,University of Iceland,Reykjavik,Iceland,2.0,0
+Computer Science,Master,Indian Institute of Science,Bangalore,India,2.0,2500
+Computer Science,Master,IIT Pune,Pune,India,2.0,1600
+Computer Science,Master,University College Cork,Cork,Ireland,2.0,16800
+Computer Science,Master,Waterford IT,Waterford,Ireland,2.0,14500
+Computer Science,Master,Kobe University,Kobe,Japan,2.0,7900
+Computer Science,Master,Kyoto University,Kyoto,Japan,2.0,8500
+Computer Science,Master,University of Malaya,Kuala Lumpur,Malaysia,2.0,8500
+Computer Science,Master,UNIMAS,Kuching,Malaysia,2.0,7000
+Computer Science,Master,TU Delft,Delft,Netherlands,2.0,15500
+Computer Science,Master,TU Eindhoven,Eindhoven,Netherlands,2.0,15600
+Computer Science,Master,University of Auckland,Auckland,New Zealand,2.0,32000
+Computer Science,Master,University of Oslo,Oslo,Norway,2.0,0
+Computer Science,Master,Universidad Metropolitana,La Chorrera,Panama,2.0,6000
+Computer Science,Master,Universidad Latina,Santiago,Panama,2.0,6500
+Computer Science,Master,University of Warsaw,Warsaw,Poland,2.0,3800
+Computer Science,Master,University of Minho,Braga,Portugal,2.0,6200
+Computer Science,Master,Samara State University,Samara,Russia,2.0,4400
+Computer Science,Master,Imam Abdulrahman University,Dammam,Saudi Arabia,2.0,4600
+Computer Science,Master,KFUPM,Dhahran,Saudi Arabia,2.0,4500
+Computer Science,Master,King Saud University,Riyadh,Saudi Arabia,2.0,7800
+Computer Science,Master,University of Subotica,Subotica,Serbia,2.0,2300
+Computer Science,Master,University of Nova Gorica,Nova Gorica,Slovenia,2.0,4100
+Computer Science,Master,Pusan National University,Busan,South Korea,2.0,5800
+Computer Science,Master,Chosun University,Gwangju,South Korea,2.0,5200
+Computer Science,Master,Seoul National University,Seoul,South Korea,2.0,7200
+Computer Science,Master,Universidad Politécnica de Madrid,Madrid,Spain,2.0,3500
+Computer Science,Master,Linköping University,Linköping,Sweden,2.0,0
+Computer Science,Master,University of Fribourg,Fribourg,Switzerland,2.0,1500
+Computer Science,Master,EPFL,Lausanne,Switzerland,2.0,1460
+Computer Science,Master,ETH Zurich,Zurich,Switzerland,2.0,1500
+Computer Science,Master,University of Tunis,Tunis,Tunisia,2.0,1500
+Computer Science,Master,Uludag University,Bursa,Turkey,2.0,1100
+Computer Science,Master,University of Birmingham,Birmingham,UK,1.0,36000
+Computer Science,Master,UWE Bristol,Bristol,UK,1.0,33000
+Computer Science,Master,Heriot-Watt University,Edinburgh,UK,1.0,37000
+Computer Science,Master,University of Glasgow,Glasgow,UK,1.0,33500
+Computer Science,Master,King's College London,London,UK,1.0,39000
+Computer Science,Master,University College London,London,UK,1.0,39200
+Computer Science,Master,UT Austin,Austin,USA,2.0,49000
+Computer Science,Master,MIT,Boston,USA,2.0,58000
+Computer Science,Master,Harvard University,Cambridge,USA,2.0,55400
+Computer Science,Master,UCLA,Los Angeles,USA,2.0,52000
+Computer Science,Master,University of Pennsylvania,Philadelphia,USA,2.0,51900
+Computer Science,Master,Carnegie Mellon,Pittsburgh,USA,2.0,51200
+Computer Science,Master,NC State University,Raleigh,USA,2.0,47000
+Computer Science,Master,University of Washington,Seattle,USA,2.0,38900
+Computer Science,Master,Lviv Polytechnic,Lviv,Ukraine,2.0,3500
+Computer Science,Master,Universidad ORT Uruguay,Salto,Uruguay,2.0,6500
+Computer Science,PhD,University of Buenos Aires,Buenos Aires,Argentina,4.0,0
+Computer Science,PhD,University of Adelaide,Adelaide,Australia,4.0,32200
+Computer Science,PhD,University of New England,Armidale,Australia,4.0,26800
+Computer Science,PhD,Federation University,Ballarat,Australia,4.0,25800
+Computer Science,PhD,Queensland University of Technology,Brisbane,Australia,4.0,31200
+Computer Science,PhD,University of Queensland,Brisbane,Australia,4.0,33500
+Computer Science,PhD,Australian National University,Canberra,Australia,4.0,34000
+Computer Science,PhD,Australian National University,Canberra,Australia,4.0,33000
+Computer Science,PhD,University of Canberra,Canberra,Australia,4.0,27800
+Computer Science,PhD,Griffith University,Gold Coast,Australia,4.0,28200
+Computer Science,PhD,University of Tasmania,Hobart,Australia,4.0,28800
+Computer Science,PhD,Southern Cross University,Lismore,Australia,4.0,25200
+Computer Science,PhD,Monash University,Melbourne,Australia,4.0,32800
+Computer Science,PhD,RMIT University,Melbourne,Australia,4.0,30200
+Computer Science,PhD,University of Melbourne,Melbourne,Australia,4.0,35000
+Computer Science,PhD,University of Newcastle,Newcastle,Australia,4.0,29200
+Computer Science,PhD,University of Western Australia,Perth,Australia,4.0,31800
+Computer Science,PhD,University of New South Wales,Sydney,Australia,4.0,33200
+Computer Science,PhD,University of Sydney,Sydney,Australia,4.0,34500
+Computer Science,PhD,University of Technology Sydney,Sydney,Australia,4.0,30800
+Computer Science,PhD,University of Southern Queensland,Toowoomba,Australia,4.0,26200
+Computer Science,PhD,James Cook University,Townsville,Australia,4.0,27200
+Computer Science,PhD,University of Wollongong,Wollongong,Australia,4.0,29800
+Computer Science,PhD,University of Antwerp,Antwerp,Belgium,4.0,3700
+Computer Science,PhD,University of Alberta,Edmonton,Canada,4.0,22800
+Computer Science,PhD,McGill University,Montreal,Canada,4.0,38000
+Computer Science,PhD,Universidad de Antioquia,Medellin,Colombia,4.0,4000
+Computer Science,PhD,UTESA,Puerto Plata,Dominican Republic,4.0,4500
+Computer Science,PhD,University of Oulu,Oulu,Finland,4.0,0
+Computer Science,PhD,University of Szeged,Szeged,Hungary,4.0,6000
+Computer Science,PhD,Diponegoro University,Semarang,Indonesia,4.0,3200
+Computer Science,PhD,Trinity College Dublin,Dublin,Ireland,4.0,18900
+Computer Science,PhD,Lebanese University,Tripoli,Lebanon,4.0,2000
+Computer Science,PhD,Adam Mickiewicz University,Poznan,Poland,4.0,2700
+Computer Science,PhD,Nanyang Technological University,Singapore,Singapore,4.0,40000
+Computer Science,PhD,KAIST,Daejeon,South Korea,4.0,6900
+Computer Science,PhD,University of the Basque Country,Bilbao,Spain,4.0,3400
+Computer Science,PhD,EPFL,Lausanne,Switzerland,4.0,1500
+Computer Science,PhD,American University of Sharjah,Sharjah,UAE,4.0,26000
+Computer Science,PhD,University of Nottingham,Nottingham,UK,4.0,34000
+Computer Science,PhD,University of Oxford,Oxford,UK,4.0,40000
+Computer Science,PhD,Cornell University,Ithaca,USA,5.0,49800
+Computer Science,PhD,University of Wisconsin,Madison,USA,5.0,38200
+Computer Science,PhD,University of Minnesota,Minneapolis,USA,4.0,48000
+Computer Science,PhD,University of Washington,Seattle,USA,5.0,50000
+Computer Science,PhD,Stanford University,Stanford,USA,5.0,54200
+Computer Science,PhD,Stanford University,Stanford,USA,5.0,52000
+Computer Science,PhD,UIUC,Urbana-Champaign,USA,5.0,45800
+Computer Science & Design,Bachelor,SUTD,Singapore,Singapore,4.0,31200
+Computer Systems,Bachelor,University of Sousse,Sousse,Tunisia,3.0,1300
+Computer Systems,Master,UASLP,San Luis Potosi,Mexico,2.0,2800
+Computer Systems,Master,Sungkyunkwan University (Suwon),Suwon,South Korea,2.0,5900
+Computing,Bachelor,University of Madeira,Funchal,Portugal,3.0,5500
+Computing & Innovation,Master,SMU,Singapore,Singapore,2.0,34200
+Computing Science,Master,University of New England,Armidale,Australia,2.0,30500
+Computing Science,Master,University of Groningen,Groningen,Netherlands,2.0,14800
+Computing Science,PhD,University of Groningen,Groningen,Netherlands,4.0,14200
+Computing Systems,Bachelor,Queen's University Belfast,Belfast,UK,3.0,27500
+Cybersecurity,Master,INSA Rennes,Rennes,France,2.0,4500
+Cybersecurity,Master,University of Florence,Florence,Italy,2.0,3500
+Cybersecurity,Master,Gdansk University of Technology,Gdansk,Poland,2.0,2500
+Cybersecurity,Master,University of Southampton,Southampton,UK,1.0,32400
+Cybersecurity,PhD,University of Thessaly,Volos,Greece,4.0,0
+Data Analytics,Bachelor,University of Salzburg,Salzburg,Austria,3.0,1500
+Data Analytics,Bachelor,University of Akureyri,Akureyri,Iceland,3.0,0
+Data Analytics,Bachelor,Multimedia University,Cyberjaya,Malaysia,3.0,7800
+Data Analytics,Bachelor,Tecnologico de Monterrey,Queretaro,Mexico,4.0,11000
+Data Analytics,Bachelor,Quality Leadership University,Chitré,Panama,3.0,6200
+Data Analytics,Bachelor,ISAE University,David,Panama,4.0,6800
+Data Analytics,Bachelor,Singapore Management University,Singapore,Singapore,4.0,38000
+Data Analytics,Bachelor,Anglia Ruskin University,Cambridge,UK,3.0,35000
+Data Analytics,Master,James Cook University,Townsville,Australia,2.0,31200
+Data Analytics,Master,University of Saskatchewan,Saskatoon,Canada,2.0,24500
+Data Analytics,Master,Aarhus University,Aarhus,Denmark,2.0,0
+Data Analytics,Master,Aswan University,Aswan,Egypt,2.0,1900
+Data Analytics,Master,University of Bordeaux,Bordeaux,France,2.0,4300
+Data Analytics,Master,Sorbonne University,Paris,France,2.0,4500
+Data Analytics,Master,University of Strasbourg,Strasbourg,France,2.0,4000
+Data Analytics,Master,University of Ghana,Accra,Ghana,2.0,4500
+Data Analytics,Master,University of Crete,Heraklion,Greece,2.0,0
+Data Analytics,Master,Sharif University of Technology,Tehran,Iran,2.0,3000
+Data Analytics,Master,Athlone IT,Athlone,Ireland,2.0,13800
+Data Analytics,Master,Trinity College Dublin,Dublin,Ireland,1.0,28900
+Data Analytics,Master,NUI Galway,Galway,Ireland,2.0,15900
+Data Analytics,Master,Politecnico di Milano,Milan,Italy,2.0,4000
+Data Analytics,Master,Sacred Heart University,Kirchberg,Luxembourg,2.0,400
+Data Analytics,Master,UiTM,Shah Alam,Malaysia,2.0,7100
+Data Analytics,Master,University of Al Quaraouiyine,Fez,Morocco,2.0,1800
+Data Analytics,Master,AUT University,Auckland,New Zealand,2.0,29500
+Data Analytics,Master,Victoria University,Wellington,New Zealand,2.0,30000
+Data Analytics,Master,Universidad San Antonio Abad,Cusco,Peru,2.0,6800
+Data Analytics,Master,PUCP,Lima,Peru,2.0,8500
+Data Analytics,Master,Ovidius University,Constanta,Romania,2.0,1900
+Data Analytics,Master,Kyungpook National University,Daegu,South Korea,2.0,5500
+Data Analytics,Master,USI Lugano,Lugano,Switzerland,2.0,1500
+Data Analytics,Master,University of St. Gallen,St. Gallen,Switzerland,2.0,1500
+Data Analytics,Master,University of Dubai,Dubai,UAE,2.0,25000
+Data Analytics,Master,University of Bristol,Bristol,UK,2.0,36000
+Data Analytics,Master,Cardiff University,Cardiff,UK,1.0,34000
+Data Analytics,Master,Newcastle University,Newcastle,UK,1.0,30800
+Data Analytics,Master,Northeastern University,Boston,USA,2.0,54000
+Data Analytics,Master,University of Chicago,Chicago,USA,2.0,52400
+Data Analytics,Master,University of Denver,Denver,USA,2.0,47000
+Data Analytics,Master,Dnipro Polytechnic,Dnipro,Ukraine,2.0,3300
+Data Analytics,Master,Samarkand State University,Samarkand,Uzbekistan,2.0,3800
+Data Analytics,PhD,University of Constantine,Constantine,Algeria,4.0,1300
+Data Analytics,PhD,National University of Cuyo,Mendoza,Argentina,4.0,0
+Data Analytics,PhD,University of Lille,Lille,France,4.0,4200
+Data Analytics,PhD,John von Neumann University,Kecskemet,Hungary,4.0,5400
+Data Analytics,PhD,IIT Hyderabad,Hyderabad,India,4.0,1800
+Data Analytics,PhD,Ferdowsi University,Mashhad,Iran,4.0,2900
+Data Analytics,PhD,UTM,Johor Bahru,Malaysia,4.0,8000
+Data Analytics,PhD,Ural Federal University,Yekaterinburg,Russia,4.0,4700
+Data Engineering,Bachelor,University of Kragujevac,Kragujevac,Serbia,4.0,2400
+Data Engineering,Master,Applied Science University,Muharraq,Bahrain,2.0,7500
+Data Engineering,Master,UCLouvain,Louvain,Belgium,2.0,3500
+Data Engineering,Master,University of Split,Split,Croatia,2.0,3800
+Data Engineering,Master,University of Montpellier,Montpellier,France,2.0,4100
+Data Engineering,Master,TU Hamburg,Hamburg,Germany,2.0,500
+Data Engineering,Master,University of Florence,Florence,Italy,2.0,3500
+Data Engineering,Master,Politecnico di Milano,Milan,Italy,2.0,4000
+Data Engineering,Master,American University Kuwait,Hawalli,Kuwait,2.0,15000
+Data Engineering,Master,Lebanese American University,Byblos,Lebanon,2.0,18000
+Data Engineering,Master,Luxembourg School of Business,Esch-sur-Alzette,Luxembourg,2.0,400
+Data Engineering,Master,King Abdulaziz University,Jeddah,Saudi Arabia,2.0,4800
+Data Engineering,Master,ZHAW,Winterthur,Switzerland,2.0,1460
+Data Engineering,Master,Suranaree University,Nakhon Ratchasima,Thailand,2.0,9000
+Data Engineering,Master,Middle East Technical University,Ankara,Turkey,2.0,1200
+Data Engineering,Master,University of Nottingham,Nottingham,UK,2.0,34000
+Data Engineering,PhD,INSA Toulouse,Toulouse,France,4.0,4300
+Data Engineering,PhD,Universidad San Martin,Chiclayo,Peru,4.0,6500
+Data Engineering,PhD,University of Glasgow,Glasgow,UK,4.0,34000
+Data Science,Bachelor,UFRGS,Porto Alegre,Brazil,4.0,0
+Data Science,Bachelor,Plovdiv University,Plovdiv,Bulgaria,3.0,3200
+Data Science,Bachelor,Neapolis University,Paphos,Cyprus,3.0,7400
+Data Science,Bachelor,Universidad de Sonsonate,Sonsonate,El Salvador,3.0,4500
+Data Science,Bachelor,University of Jena,Jena,Germany,3.0,450
+Data Science,Bachelor,IT Sligo,Sligo,Ireland,4.0,14000
+Data Science,Bachelor,Australian College Kuwait,Salmiya,Kuwait,3.0,13500
+Data Science,Bachelor,Maastricht University,Maastricht,Netherlands,3.0,11500
+Data Science,Bachelor,Utrecht University,Utrecht,Netherlands,3.0,13900
+Data Science,Bachelor,University of Coimbra,Coimbra,Portugal,3.0,6000
+Data Science,Bachelor,University of Geneva,Geneva,Switzerland,3.0,1380
+Data Science,Bachelor,Chiang Mai University,Chiang Mai,Thailand,4.0,12000
+Data Science,Master,National University of Cordoba,Cordoba,Argentina,2.0,0
+Data Science,Master,University of Queensland,Brisbane,Australia,2.0,32000
+Data Science,Master,Griffith University,Gold Coast,Australia,2.0,29000
+Data Science,Master,University of Tasmania,Hobart,Australia,2.0,30800
+Data Science,Master,University of Klagenfurt,Klagenfurt,Austria,2.0,1500
+Data Science,Master,UFBA,Salvador,Brazil,2.0,0
+Data Science,Master,University of Alberta,Edmonton,Canada,2.0,37000
+Data Science,Master,Dalhousie University,Halifax,Canada,2.0,28500
+Data Science,Master,University of Manitoba,Winnipeg,Canada,2.0,33000
+Data Science,Master,Peking University,Beijing,China,3.0,8500
+Data Science,Master,Xi'an Jiaotong University,Xi'an,China,3.0,6300
+Data Science,Master,University of Cyprus,Nicosia,Cyprus,2.0,8000
+Data Science,Master,Aarhus University,Aarhus,Denmark,2.0,8600
+Data Science,Master,University of Helsinki,Helsinki,Finland,2.0,0
+Data Science,Master,University of Jyväskylä,Jyväskylä,Finland,2.0,0
+Data Science,Master,Grenoble INP,Grenoble,France,2.0,4100
+Data Science,Master,University of Lyon,Lyon,France,2.0,4200
+Data Science,Master,École Normale Supérieure Lyon,Lyon,France,2.0,4800
+Data Science,Master,University of Nice,Nice,France,2.0,4100
+Data Science,Master,University of Health Sciences,Ho,Ghana,2.0,3500
+Data Science,Master,Athens University of Economics,Athens,Greece,2.0,0
+Data Science,Master,Gadjah Mada University,Yogyakarta,Indonesia,2.0,4000
+Data Science,Master,Hokkaido University,Sapporo,Japan,2.0,8100
+Data Science,Master,Kuwait University,Kuwait City,Kuwait,2.0,3500
+Data Science,Master,American University of Beirut,Beirut,Lebanon,2.0,20000
+Data Science,Master,Tecnológico de Monterrey,Monterrey,Mexico,2.0,12000
+Data Science,Master,Tilburg University,Tilburg,Netherlands,2.0,14000
+Data Science,Master,Babes-Bolyai University,Cluj-Napoca,Romania,2.0,2200
+Data Science,Master,ITMO University,Saint Petersburg,Russia,2.0,5000
+Data Science,Master,University of Maribor,Maribor,Slovenia,2.0,4200
+Data Science,Master,Incheon National University,Incheon,South Korea,2.0,5000
+Data Science,Master,Yonsei University,Seoul,South Korea,2.0,6900
+Data Science,Master,Universitat de Barcelona,Barcelona,Spain,2.0,3800
+Data Science,Master,Universitat de València,Valencia,Spain,2.0,3200
+Data Science,Master,University of Basel,Basel,Switzerland,2.0,1500
+Data Science,Master,University of Bern,Bern,Switzerland,2.0,1500
+Data Science,Master,University of Geneva,Geneva,Switzerland,2.0,1500
+Data Science,Master,UAE University,Al Ain,UAE,2.0,24000
+Data Science,Master,University of Bristol,Bristol,UK,2.0,36000
+Data Science,Master,University of Edinburgh,Edinburgh,UK,2.0,38000
+Data Science,Master,Imperial College London,London,UK,1.0,41200
+Data Science,Master,Imperial College London,London,UK,1.0,42000
+Data Science,Master,University of Salford,Manchester,UK,1.0,35000
+Data Science,Master,University of Warwick,Warwick,UK,1.0,36800
+Data Science,Master,UC Berkeley,Berkeley,USA,2.0,54000
+Data Science,Master,Northeastern University,Boston,USA,2.0,54000
+Data Science,Master,University of Colorado,Boulder,USA,2.0,39800
+Data Science,Master,University of Chicago,Chicago,USA,2.0,58000
+Data Science,Master,UC Davis,Davis,USA,2.0,48000
+Data Science,Master,Columbia University,New York,USA,2.0,62000
+Data Science,Master,Columbia University,New York,USA,2.0,52800
+Data Science,Master,Carnegie Mellon,Pittsburgh,USA,2.0,56000
+Data Science,Master,Portland State University,Portland,USA,2.0,45000
+Data Science,Master,Stanford University,San Francisco,USA,2.0,55000
+Data Science,Master,UC Berkeley Extension,San Francisco,USA,2.0,52000
+Data Science,Master,Kharkiv Polytechnic,Kharkiv,Ukraine,2.0,3400
+Data Science,Master,Universidad Catolica,Maldonado,Uruguay,2.0,7000
+Data Science,PhD,Arabian Gulf University,Sakhir,Bahrain,4.0,9000
+Data Science,PhD,University of Liege,Liege,Belgium,4.0,3600
+Data Science,PhD,UIS,Bucaramanga,Colombia,4.0,3500
+Data Science,PhD,Ain Shams University,Giza,Egypt,4.0,2400
+Data Science,PhD,Indian Institute of Science,Bangalore,India,4.0,2000
+Data Science,PhD,Maynooth University,Maynooth,Ireland,4.0,14900
+Data Science,PhD,University of Warsaw,Warsaw,Poland,4.0,3000
+Data Science,PhD,King Saud University,Riyadh,Saudi Arabia,4.0,5000
+Data Science,PhD,NTU Singapore,Singapore,Singapore,4.0,8900
+Data Science,PhD,University of Salamanca,Salamanca,Spain,4.0,3100
+Data Science,PhD,University of Monastir,Monastir,Tunisia,4.0,1600
+Data Science,PhD,Akdeniz University,Antalya,Turkey,4.0,1400
+Data Science,PhD,University of Washington,Seattle,USA,4.0,51000
+Data Science & AI,Master,NTU,Singapore,Singapore,2.0,34900
+Data Systems,Master,Agricultural University,Borgarnes,Iceland,2.0,0
+Design,Bachelor,Politecnico di Milano,Milan,Italy,3.0,4200
+Digital Business,Bachelor,Bifrost University,Kopavogur,Iceland,3.0,0
+Digital Design,Master,Iceland University of Arts,Hafnarfjordur,Iceland,2.0,0
+Digital Engineering,Master,Leibniz University,Hannover,Germany,2.0,500
+Digital Innovation,Bachelor,European Business University,Walferdange,Luxembourg,3.0,400
+Digital Innovation,Bachelor,University of Lucerne,Lucerne,Switzerland,3.0,1380
+Digital Innovation,Master,University of the Aegean,Rhodes,Greece,2.0,0
+Digital Media,Master,Seoul National University,Seoul,South Korea,2.0,7200
+Digital Systems,Bachelor,University of Strasbourg,Strasbourg,France,3.0,3900
+Digital Systems,Master,University of the Aegean,Chios,Greece,2.0,0
+Digital Systems,Master,University of Thessaly,Volos,Greece,2.0,0
+Digital Systems & AI,PhD,NTU,Singapore,Singapore,4.0,37900
+Economics,Bachelor,Erasmus University,Rotterdam,Netherlands,3.0,11200
+Economics,Bachelor,University of Manchester,Manchester,UK,3.0,32000
+Economics,Master,Columbia University,New York,USA,2.0,62000
+Electrical Engineering,Master,TU Hamburg,Hamburg,Germany,2.0,0
+Electrical Engineering,PhD,National Technical University,Athens,Greece,4.0,0
+Electrical Engineering,PhD,MIT,Boston,USA,5.0,53800
+Electronic Engineering,Master,Technical University of Crete,Chania,Greece,2.0,0
+Electronics,PhD,University of Patras,Patras,Greece,4.0,0
+Electronics Engineering,Bachelor,National Taiwan University,Taipei,Taiwan,4.0,5200
+Electronics Engineering,PhD,Ege University,Izmir,Turkey,4.0,1300
+Energy Engineering,Bachelor,Aalborg University,Aalborg,Denmark,3.0,0
+Engineering,Bachelor,Osaka University,Osaka,Japan,4.0,6800
+Engineering,Bachelor,University of Manchester,Manchester,UK,3.0,35000
+Engineering,Master,University of Melbourne,Melbourne,Australia,2.0,42000
+Engineering,Master,Dalhousie University,Halifax,Canada,2.0,36000
+Engineering,Master,University of Bonn,Bonn,Germany,2.0,0
+Engineering,Master,University of Stuttgart,Stuttgart,Germany,2.0,0
+Engineering,Master,Durham University,Durham,UK,2.0,35000
+Engineering,Master,University of Sheffield,Sheffield,UK,2.0,33000
+Engineering,PhD,Georgia Tech,Atlanta,USA,5.0,48000
+Engineering Management,Master,Aarhus University,Herning,Denmark,2.0,0
+Engineering Physics,Master,KTH Royal Institute,Stockholm,Sweden,2.0,0
+Environmental Computing,PhD,Lincoln University,Christchurch,New Zealand,4.0,28000
+Environmental Engineering,Master,University of Southern Denmark,Esbjerg,Denmark,2.0,0
+Environmental Science,Bachelor,University of Eastern Finland,Kuopio,Finland,3.0,0
+Environmental Science,Bachelor,University of Oslo,Oslo,Norway,3.0,0
+Environmental Science,Master,University of British Columbia,Vancouver,Canada,2.0,42000
+Environmental Science,Master,Roskilde University,Roskilde,Denmark,2.0,0
+Environmental Science,Master,University of Waikato,Hamilton,New Zealand,2.0,28500
+Finance,Bachelor,HKUST,Hong Kong,Hong Kong,4.0,22000
+Finance,Master,National University of Singapore,Singapore,Singapore,1.5,35000
+Forestry Sciences,PhD,University of Eastern Finland,Joensuu,Finland,4.0,0
+Game Technology,Master,Utrecht University,Utrecht,Netherlands,2.0,15200
+Industrial Engineering,Bachelor,Georgia Tech,Atlanta,USA,4.0,43800
+Industrial Engineering,Master,LUT University,Lappeenranta,Finland,2.0,0
+Industrial Engineering,PhD,Montanuniversität Leoben,Leoben,Austria,4.0,1500
+Industrial Management,Master,University of Vaasa,Vaasa,Finland,2.0,0
+Information Science,Bachelor,Nagoya University,Nagoya,Japan,4.0,7800
+Information Science,Master,University of Tokyo,Tokyo,Japan,2.0,8900
+Information Security,Master,NTNU Gjøvik,Gjøvik,Norway,2.0,0
+Information Security,Master,Hanbat National University,Daejeon,South Korea,2.0,4900
+Information Systems,Bachelor,University of Tlemcen,Tlemcen,Algeria,3.0,900
+Information Systems,Bachelor,Charles Darwin University,Darwin,Australia,3.0,29800
+Information Systems,Bachelor,Mansoura University,Mansoura,Egypt,4.0,2000
+Information Systems,Bachelor,TU Darmstadt,Darmstadt,Germany,3.0,450
+Information Systems,Bachelor,University of Ioannina,Ioannina,Greece,4.0,0
+Information Systems,Bachelor,University of Indonesia,Jakarta,Indonesia,4.0,4200
+Information Systems,Bachelor,Isfahan University of Technology,Isfahan,Iran,3.0,2800
+Information Systems,Bachelor,University of Tsukuba,Tsukuba,Japan,4.0,7200
+Information Systems,Bachelor,USM,Penang,Malaysia,3.0,7500
+Information Systems,Bachelor,Tilburg University,Tilburg,Netherlands,3.0,11300
+Information Systems,Bachelor,Singapore Management University,Singapore,Singapore,4.0,31800
+Information Systems,Bachelor,Faculty of Logistics,Celje,Slovenia,3.0,3900
+Information Systems,Bachelor,Karlstad University,Karlstad,Sweden,3.0,0
+Information Systems,Bachelor,Anadolu University,Eskisehir,Turkey,4.0,1000
+Information Systems,Bachelor,Ajman University,Ajman,UAE,4.0,23000
+Information Systems,Bachelor,UTEC,Rivera,Uruguay,4.0,0
+Information Systems,Master,Sofia University,Sofia,Bulgaria,2.0,3500
+Information Systems,Master,Universidad de Cartagena,Cartagena,Colombia,2.0,3300
+Information Systems,Master,University of Rijeka,Rijeka,Croatia,2.0,3500
+Information Systems,Master,UCNE,San Pedro,Dominican Republic,2.0,4800
+Information Systems,Master,Universidad de Cuenca,Cuenca,Ecuador,2.0,7200
+Information Systems,Master,Universidad de Oriente,San Miguel,El Salvador,2.0,4800
+Information Systems,Master,University of Bordeaux,Bordeaux,France,2.0,4200
+Information Systems,Master,University of Pannonia,Veszprem,Hungary,2.0,5100
+Information Systems,Master,University of Indonesia,Jakarta,Indonesia,2.0,5000
+Information Systems,Master,Mohammed V University,Rabat,Morocco,2.0,2000
+Information Systems,Master,University of Otago,Dunedin,New Zealand,2.0,29000
+Information Systems,Master,Universidad de Piura,Piura,Peru,2.0,7200
+Information Systems,Master,University of Algarve,Faro,Portugal,2.0,5900
+Information Systems,Master,Alexandru Ioan Cuza University,Iasi,Romania,2.0,2100
+Information Systems,Master,King Faisal University,Al-Ahsa,Saudi Arabia,2.0,4200
+Information Systems,Master,University of Belgrade,Belgrade,Serbia,2.0,2800
+Information Systems,Master,Chungnam National University,Daejeon,South Korea,2.0,5900
+Information Systems,Master,University of Salamanca,Salamanca,Spain,2.0,3100
+Information Systems,Master,University of Neuchatel,Neuchatel,Switzerland,2.0,1420
+Information Systems,PhD,PUC-Rio,Rio de Janeiro,Brazil,4.0,8000
+Information Systems,PhD,University of Bordeaux,Bordeaux,France,4.0,4300
+Information Systems,PhD,University of Macedonia,Thessaloniki,Greece,4.0,0
+Information Systems,PhD,University of Bologna,Bologna,Italy,4.0,3600
+Information Systems,PhD,Universidad de Valencia,Valencia,Spain,4.0,3200
+Information Technology,Bachelor,Griffith University,Gold Coast,Australia,3.0,31200
+Information Technology,Bachelor,Universidad del Valle,Cali,Colombia,4.0,3200
+Information Technology,Bachelor,CETYS Universidad,Tijuana,Mexico,4.0,9500
+Information Technology,Bachelor,Southern Federal University,Rostov-on-Don,Russia,4.0,4200
+Information Technology,Bachelor,University of Primorska,Koper,Slovenia,3.0,4000
+Information Technology,Bachelor,Fujairah University,Fujairah,UAE,4.0,21000
+Information Technology,Bachelor,Arizona State University,Tempe,USA,4.0,41200
+Information Technology,Master,Royal University for Women,Riffa,Bahrain,2.0,8000
+Information Technology,Master,Nanjing University,Nanjing,China,3.0,7200
+Information Technology,Master,PUCMM,Santiago,Dominican Republic,2.0,5500
+Information Technology,Master,University of Cape Coast,Cape Coast,Ghana,2.0,4000
+Information Technology,Master,University of Piraeus,Piraeus,Greece,2.0,0
+Information Technology,Master,Udayana University,Denpasar,Indonesia,2.0,3000
+Information Technology,Master,Hiroshima University,Hiroshima,Japan,2.0,7600
+Information Technology,Master,Miami University Dolibois,Differdange,Luxembourg,2.0,400
+Information Technology,Master,Chonnam National University,Gwangju,South Korea,2.0,5300
+Information Technology,Master,University of the Basque Country,Bilbao,Spain,2.0,3400
+Information Technology,Master,Khon Kaen University,Khon Kaen,Thailand,2.0,11000
+Information Technology,Master,Namangan Institute,Namangan,Uzbekistan,2.0,3400
+Information Technology,PhD,UFSC,Florianopolis,Brazil,4.0,0
+Information Technology,PhD,University of Zadar,Zadar,Croatia,4.0,3600
+Information Technology,PhD,Universidad Tecnica,Ambato,Ecuador,4.0,6500
+Information Technology,PhD,University of Bologna,Bologna,Italy,4.0,3600
+Information Technology,PhD,Umm Al-Qura University,Makkah,Saudi Arabia,4.0,4300
+International Business,Bachelor,Free University of Berlin,Berlin,Germany,3.0,0
+International Relations,Master,Sorbonne University,Paris,France,2.0,4500
+Machine Learning,PhD,Georgia Tech,Atlanta,USA,5.0,48000
+Marine Biology,Bachelor,University of Auckland,Auckland,New Zealand,3.0,28500
+Marine Biology,Bachelor,Nord University,Bodø,Norway,3.0,0
+Marine Technology,PhD,UiT Arctic University,Tromsø,Norway,4.0,0
+Materials Science,Master,RWTH Aachen,Aachen,Germany,2.0,0
+Mathematics,Bachelor,University of Calgary,Calgary,Canada,4.0,35000
+Mathematics,Bachelor,Uppsala University,Uppsala,Sweden,3.0,0
+Mathematics,Bachelor,University of Bristol,Bristol,UK,3.0,31200
+Mathematics,Master,University of Victoria,Victoria,Canada,2.0,35000
+Mathematics,Master,University of Cologne,Cologne,Germany,2.0,0
+Mathematics,Master,Novosibirsk State University,Novosibirsk,Russia,2.0,4800
+Mathematics,Master,UT Austin,Austin,USA,2.0,45000
+Mathematics,Master,UC Berkeley,Berkeley,USA,2.0,54000
+Mathematics,PhD,University of Wollongong,Wollongong,Australia,4.0,28000
+Mathematics,PhD,LMU Munich,Munich,Germany,4.0,0
+Mechanical Engineering,Bachelor,TU Graz,Graz,Austria,3.0,1500
+Mechanical Engineering,Bachelor,TU Dresden,Dresden,Germany,3.0,0
+Mechanical Engineering,Master,Technical University Berlin,Berlin,Germany,2.0,0
+Mechanical Engineering,Master,TU Munich,Munich,Germany,2.0,0
+Mechanical Engineering,Master,Technical University of Munich,Munich,Germany,2.0,500
+Mechanical Engineering,PhD,University of Canterbury,Christchurch,New Zealand,4.0,31000
+Mechatronics,Bachelor,University of Debrecen,Debrecen,Hungary,3.0,5800
+Mechatronics,Master,University of Innsbruck,Innsbruck,Austria,2.0,1500
+Mechatronics,PhD,KIT,Karlsruhe,Germany,4.0,0
+Medicine,Bachelor,Charles University,Prague,Czech Republic,3.0,9800
+Molecular Biology,PhD,Heidelberg University,Heidelberg,Germany,3.0,500
+Neuroscience,PhD,Lund University,Lund,Sweden,4.0,0
+Petroleum Engineering,Master,University of Stavanger,Stavanger,Norway,2.0,0
+Pharmaceutical Sciences,PhD,ETH Basel,Basel,Switzerland,4.0,1500
+Photonics,Master,University of Jena,Jena,Germany,2.0,0
+Physics,Bachelor,University of Tasmania,Hobart,Australia,3.0,26000
+Physics,Bachelor,Laval University,Quebec City,Canada,3.0,34000
+Physics,Bachelor,Heidelberg University,Heidelberg,Germany,3.0,0
+Physics,Bachelor,University of Glasgow,Glasgow,UK,3.0,34000
+Physics,Master,University of Western Australia,Perth,Australia,2.0,30000
+Physics,Master,University of Hamburg,Hamburg,Germany,2.0,0
+Physics,Master,ETH Zurich,Zurich,Switzerland,2.0,1460
+Physics,PhD,University of Copenhagen,Copenhagen,Denmark,4.0,0
+Physics,PhD,Lund University,Lund,Sweden,4.0,0
+Physics,PhD,University of Cambridge,Cambridge,UK,4.0,31200
+Physics,PhD,Stanford University,Stanford,USA,5.0,52000
+Political Science,Bachelor,University of Ottawa,Ottawa,Canada,4.0,28900
+Psychology,Bachelor,University of British Columbia,Vancouver,Canada,4.0,31200
+Quantum Computing,PhD,University of Waterloo,Waterloo,Canada,4.0,21500
+Quantum Engineering,Master,Technical University of Denmark,Lyngby,Denmark,2.0,0
+Renewable Energy,PhD,University of Agder,Kristiansand,Norway,4.0,0
+Robotics,Bachelor,Szechenyi Istvan University,Gyor,Hungary,3.0,5200
+Robotics,Master,Vrije Universiteit Brussel,Brussels,Belgium,2.0,3600
+Robotics,Master,University of Bremen,Bremen,Germany,2.0,0
+Robotics,Master,Reykjavik University,Reykjavik,Iceland,2.0,0
+Robotics,Master,NTNU,Trondheim,Norway,2.0,0
+Robotics,Master,Universidad de Sevilla,Seville,Spain,2.0,3000
+Robotics,Master,University of Zaragoza,Zaragoza,Spain,2.0,2900
+Robotics,Master,Khalifa University,Abu Dhabi,UAE,2.0,27000
+Robotics,PhD,Sapienza University,Rome,Italy,4.0,3500
+Robotics,PhD,TU Delft,Delft,Netherlands,4.0,4800
+Robotics,PhD,University of Aveiro,Aveiro,Portugal,4.0,6800
+Robotics,PhD,SUTD,Singapore,Singapore,4.0,37000
+Robotics,PhD,UT Austin,Austin,USA,5.0,48000
+Robotics,PhD,Massachusetts,MIT,USA,5.0,56000
+Robotics & AI,Master,University of Freiburg,Freiburg,Germany,2.0,500
+Robotics Engineering,Master,KAIST,Daejeon,South Korea,2.0,6800
+Social Sciences,Bachelor,University of Vienna,Vienna,Austria,3.0,1500
+Software Development,Bachelor,National University of La Plata,La Plata,Argentina,4.0,0
+Software Development,Bachelor,USC,Sunshine Coast,Australia,3.0,29500
+Software Development,Bachelor,FH Vorarlberg,Dornbirn,Austria,3.0,1500
+Software Development,Bachelor,Bahrain Polytechnic,Isa Town,Bahrain,4.0,6500
+Software Development,Bachelor,Cyprus University of Technology,Limassol,Cyprus,4.0,7500
+Software Development,Bachelor,Université de Lille,Lille,France,3.0,3800
+Software Development,Bachelor,Islamic University,Medina,Saudi Arabia,4.0,4200
+Software Development,Master,Khulna University,Khulna,Bangladesh,2.0,2100
+Software Development,Master,University of Dubrovnik,Dubrovnik,Croatia,2.0,3400
+Software Development,Master,Universidad Don Bosco,San Salvador,El Salvador,2.0,5500
+Software Development,Master,University of Pecs,Pecs,Hungary,2.0,5500
+Software Development,Master,Shiraz University,Shiraz,Iran,2.0,2700
+Software Development,Master,University of Pisa,Pisa,Italy,2.0,3300
+Software Development,Master,Jagiellonian University,Krakow,Poland,2.0,2800
+Software Development,Master,Taif University,Taif,Saudi Arabia,2.0,4400
+Software Development,Master,Cardiff University,Cardiff,UK,1.0,31200
+Software Development,Master,Andijan State University,Andijan,Uzbekistan,2.0,3200
+Software Development,PhD,ESPOL,Guayaquil,Ecuador,4.0,7800
+Software Development,PhD,University for Development,Tamale,Ghana,4.0,3800
+Software Development,PhD,Universidad Nacional de Trujillo,Trujillo,Peru,4.0,7500
+Software Development,PhD,University of Craiova,Craiova,Romania,4.0,2200
+Software Development,PhD,University of Washington,Seattle,USA,5.0,50000
+Software Engineering,Bachelor,University of Buenos Aires,Buenos Aires,Argentina,5.0,0
+Software Engineering,Bachelor,University of Bahrain,Manama,Bahrain,4.0,7000
+Software Engineering,Bachelor,University of Calgary,Calgary,Canada,4.0,26500
+Software Engineering,Bachelor,McMaster University,Hamilton,Canada,4.0,32500
+Software Engineering,Bachelor,INSA Toulouse,Toulouse,France,3.0,4200
+Software Engineering,Bachelor,University of Stuttgart,Stuttgart,Germany,3.0,450
+Software Engineering,Bachelor,Institut Teknologi Sepuluh,Surabaya,Indonesia,4.0,3800
+Software Engineering,Bachelor,Sapienza University,Rome,Italy,3.0,3500
+Software Engineering,Bachelor,Kanazawa University,Kanazawa,Japan,4.0,7100
+Software Engineering,Bachelor,Universidad de Guadalajara,Guadalajara,Mexico,4.0,900
+Software Engineering,Bachelor,Universidad San Agustin,Arequipa,Peru,4.0,7000
+Software Engineering,Bachelor,SIM Global Education,Singapore,Singapore,4.0,35000
+Software Engineering,Bachelor,SIT,Singapore,Singapore,4.0,29800
+Software Engineering,Bachelor,Prince of Songkla University,Hat Yai,Thailand,4.0,9500
+Software Engineering,Bachelor,University of Leeds,Leeds,UK,3.0,28500
+Software Engineering,Bachelor,Igor Sikorsky Kyiv Polytechnic,Kyiv,Ukraine,4.0,3800
+Software Engineering,Bachelor,HCMUT,Ho Chi Minh City,Vietnam,4.0,3200
+Software Engineering,Master,University of Western Australia,Perth,Australia,2.0,34500
+Software Engineering,Master,TU Wien,Vienna,Austria,2.0,1500
+Software Engineering,Master,RUET,Rajshahi,Bangladesh,2.0,2000
+Software Engineering,Master,Fudan University,Shanghai,China,2.5,7800
+Software Engineering,Master,Wuhan University,Wuhan,China,3.0,6500
+Software Engineering,Master,Universidad Nacional,Bogota,Colombia,2.0,3500
+Software Engineering,Master,Eastern Mediterranean University,Famagusta,Cyprus,2.0,7800
+Software Engineering,Master,Aalborg University,Aalborg,Denmark,2.0,8400
+Software Engineering,Master,Alexandria University,Alexandria,Egypt,2.0,2200
+Software Engineering,Master,Tampere University,Tampere,Finland,2.0,0
+Software Engineering,Master,National Technical University,Athens,Greece,2.0,2500
+Software Engineering,Master,Budapest University of Technology,Budapest,Hungary,2.0,6500
+Software Engineering,Master,IIT Madras,Chennai,India,2.0,1700
+Software Engineering,Master,University of Padua,Padua,Italy,2.0,3400
+Software Engineering,Master,Tohoku University,Sendai,Japan,2.0,8200
+Software Engineering,Master,ACK,Al Ahmadi,Kuwait,2.0,13000
+Software Engineering,Master,Holy Spirit University,Jounieh,Lebanon,2.0,16000
+Software Engineering,Master,Abdelmalek Essaadi University,Tangier,Morocco,2.0,1900
+Software Engineering,Master,Lodz University of Technology,Lodz,Poland,2.0,2400
+Software Engineering,Master,University of Porto,Porto,Portugal,2.0,6500
+Software Engineering,Master,Tomsk State University,Tomsk,Russia,2.0,4600
+Software Engineering,Master,Dong-A University,Busan,South Korea,2.0,5600
+Software Engineering,Master,Hanyang University,Seoul,South Korea,2.0,6500
+Software Engineering,Master,Linnaeus University,Växjö,Sweden,2.0,0
+Software Engineering,Master,University of Bern,Bern,Switzerland,2.0,1420
+Software Engineering,Master,Chulalongkorn University,Bangkok,Thailand,2.0,15000
+Software Engineering,Master,Erciyes University,Kayseri,Turkey,2.0,1200
+Software Engineering,Master,University of Oxford,Oxford,UK,2.0,40000
+Software Engineering,Master,Duke University,Durham,USA,2.0,51500
+Software Engineering,Master,Carnegie Mellon,Pittsburgh,USA,2.0,56000
+Software Engineering,Master,Universidad de Paysandu,Paysandu,Uruguay,2.0,0
+Software Engineering,PhD,University of Zagreb,Zagreb,Croatia,4.0,4000
+Software Engineering,PhD,University of Southern Denmark,Kolding,Denmark,4.0,0
+Software Engineering,PhD,Kwame Nkrumah University,Kumasi,Ghana,4.0,4200
+Software Engineering,PhD,University of Naples,Naples,Italy,4.0,3200
+Software Engineering,PhD,UTeM,Melaka,Malaysia,4.0,7500
+Software Engineering,PhD,Politehnica University,Timisoara,Romania,4.0,2400
+Software Engineering,PhD,University of Novi Sad,Novi Sad,Serbia,4.0,2600
+Software Engineering,PhD,Universidad Politecnica,Madrid,Spain,4.0,3500
+Software Engineering,PhD,University of Manchester,Manchester,UK,4.0,35000
+Software Science,Master,Radboud University,Nijmegen,Netherlands,2.0,14500
+Software Systems,Bachelor,University of Regina,Regina,Canada,4.0,25500
+Software Systems,Master,TU Braunschweig,Braunschweig,Germany,2.0,500
+Software Systems,Master,University of Ulsan,Ulsan,South Korea,2.0,5100
+Sustainable Energy,Master,Chalmers University,Gothenburg,Sweden,2.0,0
+Sustainable Technology,Master,KTH Royal Institute,Stockholm,Sweden,2.0,0
+Systems Engineering,Master,University of South-Eastern Norway,Horten,Norway,2.0,0
+Technology & Innovation,Master,SUTD,Singapore,Singapore,2.0,33800
