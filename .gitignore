@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# mac stuff
+.DS_Store
+
+# Large course files, checkpoints
+complete/nyc.csv
+incomplete/nyc.csv
+.ipynb_checkpoints/
+

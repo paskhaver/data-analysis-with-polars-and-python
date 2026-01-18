@@ -1,0 +1,16 @@
+[project]
+name = "data-analysis-with-polars-and-python"
+version = "1.0.0"
+description = "Data Analysis with Polars and Python course"
+readme = "README.md"
+authors = [
+    { name = "Boris Paskhaver", email = "boris.paskhaver@nyu.edu" },
+]
+requires-python = ">=3.13"
+dependencies = [
+    "polars[all]==1.37.1",
+    "jupyterlab==4.5.2",
+    "jupyter-ruff>=0.3.1",
+    "faker>=40.1.2",
+    "pandas>=3.0.0rc2",
+]
