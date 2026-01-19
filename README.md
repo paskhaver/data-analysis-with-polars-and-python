@@ -2,7 +2,7 @@
 
 # Data Analysis with Polars and Python
 
-This repo contains the datasets and Jupyter Notebooks for
+This repo contains the datasets and Jupyter Notebooks for the
 **Data Analysis with Polars and Python** course.
 
 ## Setup Instructions
@@ -13,9 +13,9 @@ This repo contains the datasets and Jupyter Notebooks for
 
 If you have Git installed, execute `git clone git@github.com:paskhaver/data-analysis-with-polars-and-python.git`
 
-If you don't have Git installed, click the green `Code` button, then click `Download ZIP`.
+If you do not have Git installed, click the green `Code` button, then click `Download ZIP`.
 
-If downloading directly from GitHub, you'll receive a compress `.zip` file. You'll need to unzip it to access its contents.
+If downloading directly from GitHub, you'll receive a compressed `.zip` file. You'll need to unzip it to access its contents.
 
 - On macOS, double-click the `data-analysis-with-polars-and-python` zip folder to unzip it.
 - On Windows, right-click the zipped `data-analysis-with-polars-and-python` folder, select `Extract All...`, and choose your destination folder.
@@ -26,11 +26,13 @@ If downloading directly from GitHub, you'll receive a compress `.zip` file. You'
    - Download Polars (the data analysis library)
    - Download Jupyter Lab (the development environment)
 
+The exact version of Python, Polars, and all other libraries can be found in the `pyproject.toml` file.
+
 ## Two Folders
 
 The `incomplete` and `complete` folders contain the exact same files.
 
-The Jupyter Notebooks in the `incomplete` folder have empty code cells. Watch along with the videos and practice writing the code inside the Notebook. You'll complete them as you progress through the course.  Feel free to experiment!
+The Jupyter Notebooks in the `incomplete` folder have empty code cells. Watch along with the videos and practice writing the code inside the Notebook. You'll complete them as you progress through the course. Feel free to experiment!
 
 The `complete` folder contains my _completed_ Jupyter Notebooks from the recording of the
 course. I recommend using these as a backup resource if a code sample does not work or if you want to compare our results.
