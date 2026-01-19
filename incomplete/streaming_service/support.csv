@@ -1,0 +1,501 @@
+ticket_id,user_id,complaint
+1,2557,billing
+2,4534,video quality
+3,2994,video quality
+4,,movie selection
+5,,movie selection
+6,2994,billing
+7,2800,video quality
+8,,movie selection
+9,289,audio quality
+10,61,video quality
+11,,
+12,,movie selection
+13,3531,billing
+14,,
+15,1899,movie selection
+16,597,billing
+17,398,movie selection
+18,,billing
+19,,
+20,4042,billing
+21,,billing
+22,,billing
+23,,movie selection
+24,,
+25,,audio quality
+26,,movie selection
+27,4603,
+28,2841,video quality
+29,,audio quality
+30,,billing
+31,3406,movie selection
+32,,video quality
+33,,
+34,,billing
+35,,video quality
+36,4460,video quality
+37,198,audio quality
+38,,video quality
+39,2205,audio quality
+40,,audio quality
+41,1899,movie selection
+42,,billing
+43,3537,video quality
+44,,
+45,4997,video quality
+46,,movie selection
+47,3873,audio quality
+48,,
+49,,billing
+50,,movie selection
+51,61,billing
+52,1589,audio quality
+53,4534,billing
+54,,audio quality
+55,,video quality
+56,,audio quality
+57,3366,
+58,,
+59,,
+60,2000,audio quality
+61,722,
+62,1272,audio quality
+63,4933,audio quality
+64,4285,video quality
+65,,
+66,3004,movie selection
+67,4180,
+68,,movie selection
+69,,movie selection
+70,,audio quality
+71,,
+72,,billing
+73,,video quality
+74,4128,billing
+75,,movie selection
+76,,billing
+77,,video quality
+78,,video quality
+79,2840,video quality
+80,1041,billing
+81,1041,
+82,,movie selection
+83,,movie selection
+84,,video quality
+85,,audio quality
+86,775,
+87,,movie selection
+88,,video quality
+89,3434,billing
+90,,
+91,,audio quality
+92,,movie selection
+93,3157,
+94,,video quality
+95,,video quality
+96,,billing
+97,1970,movie selection
+98,4425,
+99,4360,
+100,4128,audio quality
+101,,billing
+102,48,
+103,,billing
+104,521,video quality
+105,,
+106,,billing
+107,,video quality
+108,3105,
+109,1272,movie selection
+110,,movie selection
+111,539,
+112,,movie selection
+113,,audio quality
+114,,movie selection
+115,,video quality
+116,1029,movie selection
+117,,audio quality
+118,2707,billing
+119,,movie selection
+120,1916,video quality
+121,775,
+122,,video quality
+123,2693,
+124,1096,movie selection
+125,,audio quality
+126,2693,video quality
+127,1285,video quality
+128,2786,movie selection
+129,,
+130,4571,billing
+131,,
+132,,video quality
+133,995,billing
+134,,video quality
+135,2174,audio quality
+136,2447,audio quality
+137,,video quality
+138,,video quality
+139,4681,
+140,,billing
+141,627,movie selection
+142,,video quality
+143,3157,video quality
+144,,audio quality
+145,,video quality
+146,4881,billing
+147,,
+148,2845,video quality
+149,,video quality
+150,866,video quality
+151,,movie selection
+152,4520,audio quality
+153,,
+154,,movie selection
+155,924,video quality
+156,,video quality
+157,1899,audio quality
+158,1079,
+159,3004,audio quality
+160,,movie selection
+161,3360,audio quality
+162,4498,audio quality
+163,3873,audio quality
+164,1761,video quality
+165,3221,
+166,388,
+167,2213,
+168,,movie selection
+169,3531,
+170,,billing
+171,2086,audio quality
+172,686,
+173,3747,
+174,,
+175,3630,movie selection
+176,,audio quality
+177,,
+178,,video quality
+179,,
+180,,audio quality
+181,,audio quality
+182,1481,audio quality
+183,388,audio quality
+184,2845,billing
+185,,movie selection
+186,,
+187,,movie selection
+188,,
+189,,billing
+190,4482,billing
+191,,movie selection
+192,3434,audio quality
+193,2557,billing
+194,1079,audio quality
+195,3390,video quality
+196,3360,video quality
+197,4534,billing
+198,4181,billing
+199,,audio quality
+200,2507,
+201,,
+202,3583,video quality
+203,,
+204,3552,billing
+205,3081,video quality
+206,4425,billing
+207,1555,billing
+208,,video quality
+209,2508,
+210,,
+211,2447,audio quality
+212,,
+213,1183,audio quality
+214,3583,video quality
+215,,billing
+216,4681,video quality
+217,,billing
+218,628,
+219,,
+220,3736,movie selection
+221,,video quality
+222,3882,audio quality
+223,1511,movie selection
+224,4661,video quality
+225,61,audio quality
+226,4520,movie selection
+227,,movie selection
+228,3622,audio quality
+229,4826,video quality
+230,,audio quality
+231,4265,billing
+232,,video quality
+233,,movie selection
+234,,billing
+235,,movie selection
+236,,
+237,,billing
+238,3515,audio quality
+239,3780,billing
+240,4662,billing
+241,3034,billing
+242,,video quality
+243,3591,video quality
+244,1056,video quality
+245,388,
+246,,movie selection
+247,2196,video quality
+248,,billing
+249,,
+250,1511,video quality
+251,1682,billing
+252,,audio quality
+253,4091,movie selection
+254,,billing
+255,554,video quality
+256,,audio quality
+257,3515,billing
+258,718,movie selection
+259,4881,video quality
+260,1511,audio quality
+261,2693,audio quality
+262,,video quality
+263,,audio quality
+264,2767,video quality
+265,3339,audio quality
+266,,audio quality
+267,722,audio quality
+268,718,movie selection
+269,,movie selection
+270,,
+271,3034,movie selection
+272,,
+273,,video quality
+274,,movie selection
+275,2707,audio quality
+276,1894,billing
+277,450,
+278,4094,movie selection
+279,2840,audio quality
+280,1481,billing
+281,,billing
+282,539,billing
+283,573,video quality
+284,2508,
+285,,video quality
+286,1682,video quality
+287,,audio quality
+288,,video quality
+289,,audio quality
+290,,movie selection
+291,1056,video quality
+292,,billing
+293,,video quality
+294,1945,video quality
+295,2002,movie selection
+296,,movie selection
+297,2174,movie selection
+298,,billing
+299,2568,billing
+300,,audio quality
+301,2568,video quality
+302,3097,
+303,,audio quality
+304,2395,video quality
+305,,video quality
+306,,movie selection
+307,3406,movie selection
+308,,movie selection
+309,2707,video quality
+310,,movie selection
+311,1063,video quality
+312,4140,video quality
+313,512,audio quality
+314,3339,billing
+315,,billing
+316,3515,
+317,,audio quality
+318,,audio quality
+319,1029,movie selection
+320,1853,
+321,,movie selection
+322,,movie selection
+323,4285,
+324,,video quality
+325,971,audio quality
+326,806,audio quality
+327,,audio quality
+328,,video quality
+329,,video quality
+330,,
+331,,video quality
+332,,video quality
+333,2016,video quality
+334,4933,movie selection
+335,,video quality
+336,,movie selection
+337,722,movie selection
+338,,video quality
+339,,billing
+340,4601,video quality
+341,627,
+342,554,audio quality
+343,,audio quality
+344,1183,audio quality
+345,1589,
+346,4042,
+347,2371,video quality
+348,3610,billing
+349,3808,
+350,,billing
+351,3232,video quality
+352,2086,
+353,,billing
+354,1297,
+355,61,video quality
+356,2371,audio quality
+357,,video quality
+358,1202,audio quality
+359,2568,billing
+360,,billing
+361,,billing
+362,1758,movie selection
+363,4042,audio quality
+364,32,video quality
+365,2767,billing
+366,,
+367,2767,movie selection
+368,,video quality
+369,2635,
+370,,billing
+371,,
+372,,video quality
+373,,audio quality
+374,987,
+375,3366,movie selection
+376,4482,
+377,3097,video quality
+378,,audio quality
+379,3815,billing
+380,,
+381,,movie selection
+382,,video quality
+383,651,audio quality
+384,3105,billing
+385,,audio quality
+386,,video quality
+387,,
+388,2945,audio quality
+389,,billing
+390,,
+391,,billing
+392,,
+393,806,audio quality
+394,3610,audio quality
+395,72,video quality
+396,2006,
+397,,
+398,4135,audio quality
+399,2767,video quality
+400,,billing
+401,,audio quality
+402,,billing
+403,2178,audio quality
+404,2800,billing
+405,,video quality
+406,,movie selection
+407,3434,
+408,995,
+409,,movie selection
+410,1301,billing
+411,,audio quality
+412,3824,movie selection
+413,,movie selection
+414,,billing
+415,450,video quality
+416,,audio quality
+417,,billing
+418,,billing
+419,,audio quality
+420,,
+421,388,audio quality
+422,3366,
+423,3602,audio quality
+424,4042,movie selection
+425,1761,movie selection
+426,554,
+427,,billing
+428,4228,movie selection
+429,2086,
+430,,movie selection
+431,,movie selection
+432,,billing
+433,,video quality
+434,,video quality
+435,,billing
+436,1970,movie selection
+437,,video quality
+438,4285,billing
+439,,audio quality
+440,,
+441,,
+442,,movie selection
+443,,billing
+444,,audio quality
+445,,billing
+446,,audio quality
+447,4360,billing
+448,,billing
+449,,audio quality
+450,,billing
+451,559,billing
+452,255,movie selection
+453,1202,audio quality
+454,,audio quality
+455,,
+456,1202,billing
+457,4474,audio quality
+458,725,video quality
+459,,video quality
+460,,video quality
+461,48,
+462,4088,video quality
+463,718,audio quality
+464,,
+465,32,billing
+466,,
+467,2841,billing
+468,4140,video quality
+469,,
+470,1285,
+471,,
+472,718,movie selection
+473,1301,
+474,4474,billing
+475,722,
+476,,audio quality
+477,3736,movie selection
+478,,
+479,,movie selection
+480,,video quality
+481,3808,video quality
+482,2000,video quality
+483,2445,video quality
+484,4091,
+485,2845,video quality
+486,1316,
+487,,
+488,1079,movie selection
+489,,movie selection
+490,,video quality
+491,,movie selection
+492,,
+493,4110,audio quality
+494,1853,audio quality
+495,,
+496,,audio quality
+497,,billing
+498,2800,
+499,,
+500,,video quality

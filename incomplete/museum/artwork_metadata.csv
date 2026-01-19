@@ -1,0 +1,7 @@
+location,on_display
+Room A,True
+Room B,True
+Room C,False
+Room C,True
+Sculpture Hall,True
+Sculpture Hall,False
